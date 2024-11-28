@@ -1,0 +1,3029 @@
+ArXiv Summaries for cs.AI on 2024-11-27
+================================================================================
+
+Paper ID: 2411.18620
+URL: https://arxiv.org/abs/2411.18620
+PDF: https://arxiv.org/pdf/2411.18620
+
+Summary:
+Here is a concise summary of the paper:
+
+This study investigates the inner workings of multimodal large language models (MLLMs) and how linguistic
+and visual information interact within these models. The researchers examine the information flow between language and vision modalities in MLLMs,
+focusing on visual question answering tasks. They analyze how MLLMs process and integrate linguistic and visual information to generate answers. The
+study aims to fill the gap in understanding the mechanisms of MLLMs and their ability to process cross-modal information. The findings provide
+insights into the inner workings of MLLMs and their potential applications in vision-language tasks.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18564
+URL: https://arxiv.org/abs/2411.18564
+PDF: https://arxiv.org/pdf/2411.18564
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a neural-symbolic integration framework to enhance the spatial reasoning abilities of
+Large Language Models (LLMs). The framework combines symbolic reasoning with LLMs to improve their understanding of complex relationships between
+objects in space. The authors evaluate their approach on two benchmark datasets, StepGame and SparQA, using three distinct strategies. The results
+show significant improvements over baseline methods, with accuracy increases of 40-50% on the StepGame dataset and 3-13% on the SparQA dataset. The
+framework demonstrates the potential to enhance LLMs' spatial reasoning capabilities, a crucial aspect of reasoning and inference.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18526
+URL: https://arxiv.org/abs/2411.18526
+PDF: https://arxiv.org/pdf/2411.18526
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers from various institutions propose a new approach to AI safety, inspired by human intelligence.
+They argue that humans' ability to generalize, explore, and cooperate under uncertain conditions is crucial for safe AI development. The authors
+suggest that incorporating these human-like properties into AI systems, along with safety mechanisms, can drive sustained progress and well-being.
+The paper highlights the importance of understanding the architecture of the human brain and its learning mechanisms to inform AI safety design. By
+leveraging human intelligence as a model, the authors aim to create safer and more effective AI systems.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18279
+URL: https://arxiv.org/abs/2411.18279
+PDF: https://arxiv.org/pdf/2411.18279
+
+Summary:
+Here is a concise summary of the paper:
+
+This survey paper explores the application of Large Language Models (LLMs) to Graphical User Interfaces
+(GUIs), enabling the development of more flexible and adaptable GUI agents. LLMs have shown exceptional capabilities in natural language
+understanding, code generation, task generalization, and visual processing, making them suitable for GUI automation. The paper highlights the
+potential of LLM-brained GUI agents to interpret complex user inputs, automate tasks, and interact with dynamic systems. This technology has the
+potential to revolutionize human-computer interaction, providing a more intuitive and efficient way to access and interact with digital systems.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18230
+URL: https://arxiv.org/abs/2411.18230
+PDF: https://arxiv.org/pdf/2411.18230
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a dependency-aware task scheduling strategy for dynamic unmanned aerial vehicle-assisted
+connected autonomous vehicles (CAVs). The strategy assigns computation tasks with multiple subtasks to nearby CAVs or a base station to minimize
+average task completion time. The problem is formulated as a Markov decision process to optimize long-term system performance. A diffusion-based
+reinforcement learning approach is used to solve the joint scheduling priority and subtask assignment optimization problem. The proposed method
+improves the efficiency and effectiveness of task scheduling in dynamic CAV networks.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18158
+URL: https://arxiv.org/abs/2411.18158
+PDF: https://arxiv.org/pdf/2411.18158
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers propose a novel framework to enhance artificial intelligence's reasoning capabilities on the
+Abstraction and Reasoning Corpus (ARC). They argue that humans solve visual reasoning tasks through abductive reasoning, and develop a symbolic
+solver that represents observed data as a knowledge graph and extracts core knowledge for solution generation. This framework aims to provide
+human-like solutions by mimicking the human thinking process. The proposed approach focuses on logicality and can be used to generate reasonable
+solutions, unlike previous grid-based approaches. The framework's goal is to enable AI to provide explanations for its solutions, similar to humans.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18085
+URL: https://arxiv.org/abs/2411.18085
+PDF: https://arxiv.org/pdf/2411.18085
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces "Monopoly", a project that aims to revalue private properties by learning to price
+public facilities using large-scale urban data. The project proposes a distributed approach to assess the value of private properties by considering
+factors such as property attributes, demographics, and public facilities. The authors focus on the challenge of determining the exact prices of
+public facilities, which are crucial in assessing private property values. By learning to price public facilities, the Monopoly project aims to
+provide a more accurate and efficient way to determine the value of private properties. The project has the potential to benefit individuals,
+governments, and real estate agencies by providing a more accurate and data-driven approach to property valuation.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18073
+URL: https://arxiv.org/abs/2411.18073
+PDF: https://arxiv.org/pdf/2411.18073
+
+Summary:
+Here is a concise summary of the paper:
+
+DuMapper is a system designed to automatically verify large-scale points of interest (POIs) with street
+views at Baidu Maps. The verification of POIs is crucial for providing accurate location searches and user-satisfied services. The system leverages
+volunteered geographic information (VGI) platforms to enable crowdworkers and expert mappers to verify POIs seamlessly. However, this approach
+requires significant human effort and resources. DuMapper aims to automate this process, improving the efficiency and scalability of POI verification.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18071
+URL: https://arxiv.org/abs/2411.18071
+PDF: https://arxiv.org/pdf/2411.18071
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes using Large Language Models (LLMs) to rapidly explore hypotheses about real-world
+entities by simulating tabular datasets. The authors demonstrate this approach by exploring the hypothesis that horror writers have worse childhoods
+than other writers. They use LLMs to estimate properties of specific writers, such as their childhood experiences, and then apply off-the-shelf
+analysis methods to reveal possible relationships among these properties. This approach enables rapid prototyping of hypotheses without requiring
+significant human effort to sift through biographies and interviews. The authors also suggest using LLMs to automatically suggest quantitative
+properties to analyze.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17999
+URL: https://arxiv.org/abs/2411.17999
+PDF: https://arxiv.org/pdf/2411.17999
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose a novel ranking method for comparing multi-objective optimization algorithms, which
+simultaneously considers multiple performance indicators. The method utilizes Pareto optimality to create rank levels, ensuring that all quality
+perspectives are considered. The approach is designed to assess the quality of multi-objective results using multiple indicators, guaranteeing a
+comprehensive evaluation. The proposed method can be used to rank the performance of multi- and many-objective optimization algorithms. The authors
+aim to provide a more accurate and comprehensive comparison of these algorithms.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17912
+URL: https://arxiv.org/abs/2411.17912
+PDF: https://arxiv.org/pdf/2411.17912
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers tested three large language models (LLMs) on six real-world path-planning scenarios, finding
+that all LLMs made numerous errors in every scenario. The results suggest that LLMs are unreliable path planners and may not be suitable for use in
+vehicle navigation systems. To improve their performance, the authors recommend implementing reality checks, enhancing model transparency, and
+developing smaller models. The study highlights the need for further research in this area, particularly as LLMs are increasingly integrated into
+vehicle systems.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17708
+URL: https://arxiv.org/abs/2411.17708
+PDF: https://arxiv.org/pdf/2411.17708
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper explores neurally-guided program induction approaches for ARC-AGI, a problem domain that requires
+generalizing out-of-distribution. The authors implement and experiment with two paradigms: Learning the grid space and Learning the program space,
+identifying their strengths and weaknesses. They suggest a third paradigm, Learning the transformation space, as a potential solution and run
+preliminary experiments. The study aims to improve the efficiency and generalization characteristics of program induction methods for ARC-AGI.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18616
+URL: https://arxiv.org/abs/2411.18616
+PDF: https://arxiv.org/pdf/2411.18616
+
+Summary:
+Here is a concise summary of the paper:
+
+Diffusion Self-Distillation is a novel approach that generates diverse images that maintain the input's
+identity across various contexts, without requiring fine-tuning or additional inference-stage training. This method enables instant customization and
+editability in text-to-image diffusion models, allowing for precise control. Unlike prior approaches, Diffusion Self-Distillation does not require
+specific domains or fine-tuning, making it a valuable tool for general AI content creation. The approach produces impressive results, enabling
+artists to create images of specific concepts in novel contexts.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18615
+URL: https://arxiv.org/abs/2411.18615
+PDF: https://arxiv.org/pdf/2411.18615
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel approach to mitigate gradient conflicts in multi-task learning, a common issue
+that arises when training a single model on multiple tasks simultaneously. Gradient conflicts occur when different tasks compete for resources,
+leading to improvements in one task at the expense of another. The proposed method, called Proactive Gradient Conflict Mitigation, uses a sparse
+training perspective to reduce the impact of conflicts and improve overall performance. The approach is shown to be effective in various multi-task
+learning scenarios, achieving better results than existing methods. By addressing gradient conflicts, the proposed method enables the training of
+more generalist agents that can perform well on multiple tasks.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18612
+URL: https://arxiv.org/abs/2411.18612
+PDF: https://arxiv.org/pdf/2411.18612
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel framework, d-RRMDP, to address the challenges of offline reinforcement learning
+with dynamics shift. The d-RRMDP framework uses linearly structured f-divergence regularization to improve scalability and theoretical insights.
+Unlike existing methods, d-RRMDP focuses on realistic transitions, reducing conservatism in policy decisions. The proposed approach is designed to
+solve the dual optimization oracle of the DRMDP framework, providing a more efficient and effective solution. The d-RRMDP framework is expected to
+improve the robustness and performance of offline reinforcement learning algorithms.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18583
+URL: https://arxiv.org/abs/2411.18583
+PDF: https://arxiv.org/pdf/2411.18583
+
+Summary:
+Here is a concise summary of the paper:
+
+This research compares multiple approaches to automate literature review generation using Natural Language
+Processing (NLP) techniques and retrieval-augmented generation (RAG) with a Large Language Model (LLM). The authors evaluate the effectiveness of
+various NLP techniques, including topic modeling, sentiment analysis, and named entity recognition, in generating literature reviews. They also
+explore the use of LLMs to augment the generation process. The study aims to identify the most effective approach for automating literature review
+generation and improve the efficiency and accuracy of the process.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18575
+URL: https://arxiv.org/abs/2411.18575
+PDF: https://arxiv.org/pdf/2411.18575
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper proposes an interpretability method for functional data models, specifically for
+scalar-on-function regression. The method is based on the continuous Shapley value, a mathematical concept that fairly distributes a global payoff
+among a continuous set of players. This approach allows for the interpretation of predictive models based on functional data, which is particularly
+challenging due to the infinite size of the feature set. The method is demonstrated through a set of experiments with simulated data, showing its
+effectiveness in explaining the behavior of predictive models.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18506
+URL: https://arxiv.org/abs/2411.18506
+PDF: https://arxiv.org/pdf/2411.18506
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces LLM-ABBA, a method that integrates the adaptive Brownian bridge-based symbolic
+aggregation (ABBA) technique with large language models (LLMs) for time series analysis. ABBA efficiently represents time series data as symbols,
+preserving salient features. LLM-ABBA combines ABBA with LLMs to enable the exploitation of semantic information in time series data. This
+integration enables LLMs to be applied to various downstream time series tasks. The method shows promising results in preserving time series features
+and leveraging semantic information.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18502
+URL: https://arxiv.org/abs/2411.18502
+PDF: https://arxiv.org/pdf/2411.18502
+
+Summary:
+Here is a concise summary of the paper:
+
+Isometry Pursuit is a convex algorithm that identifies orthonormal column-submatrices of wide matrices. It
+consists of a novel normalization method and multitask basis pursuit, which helps identify isometric embeddings from interpretable dictionaries. The
+algorithm is applied to Jacobians of putative coordinate functions and provides a synergistic alternative to greedy and brute force search for
+problems involving coordinate selection and diversification. Theoretical and experimental results justify the method's effectiveness.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18479
+URL: https://arxiv.org/abs/2411.18479
+PDF: https://arxiv.org/pdf/2411.18479
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper discusses the importance of watermarking in distinguishing between AI-generated content and
+human-created content. As AI-generated content improves in quality, it becomes increasingly difficult to distinguish between the two. Watermarking
+schemes embed hidden signals within AI-generated content to enable reliable detection. The paper highlights the potential of watermarking in
+enhancing AI safety and trustworthiness, but notes that it is not a complete solution for addressing all risks associated with AI-generated content.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18475
+URL: https://arxiv.org/abs/2411.18475
+PDF: https://arxiv.org/pdf/2411.18475
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a weakly-supervised framework for large-scale cropland mapping using satellite imagery,
+which leverages multi-temporal information to improve accuracy. The framework, called SITS, optimizes the utilization of labels from GLC products and
+encodes intrinsic features to enhance cropland extraction. Experimental results on three agricultural areas demonstrate the advantages of the
+proposed method, showing improved performance and robustness in data-deficient scenarios. The study highlights the benefits of using multi-temporal
+information for cropland mapping and provides a reliable and efficient approach for large-scale cropland mapping.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18463
+URL: https://arxiv.org/abs/2411.18463
+PDF: https://arxiv.org/pdf/2411.18463
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a novel peptide design method, HOTSPOT, which uses multi-fragment autoregressive
+extension to generate peptides that bind to target proteins. The method addresses three challenges in peptide design: unequal residue contributions,
+valid peptide geometries, and realistic tasks for drug development. HOTSPOT generates peptides that are more effective at binding to targets and have
+improved geometries compared to existing methods. The approach shows promise for developing peptide-based therapeutics for treating human diseases.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18462
+URL: https://arxiv.org/abs/2411.18462
+PDF: https://arxiv.org/pdf/2411.18462
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose SVIP, a self-verification length policy for Speculative Decoding (SD) that dynamically
+adjusts the draft length based on the difficulty of token generation across tasks. SVIP uses a theoretical lower bound of draft token acceptance rate
+and its inference-time approximation to adaptively determine the lengths of draft sequences. This approach addresses the limitation of conventional
+SD methods, which use a fixed draft length. Experimental results on mainstream SD benchmarks and frameworks demonstrate the effectiveness of SVIP in
+improving the accuracy and efficiency of SD.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18456
+URL: https://arxiv.org/abs/2411.18456
+PDF: https://arxiv.org/pdf/2411.18456
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a method to generate synthetic electrocardiogram (ECG) data using deep learning
+models, specifically Diffweave, Time-Diffusion, and Time-VQV AE. The goal was to augment existing ECG datasets and improve arrhythmia classification.
+The generated synthetic data was used to train and test deep learning models, showing promising results in improving classification accuracy. This
+approach can help overcome the challenges of collecting and annotating ECG data, which is sensitive and expensive. The study demonstrates the
+potential of synthetic data generation for enhancing ECG data augmentation and transfer learning in arrhythmia classification.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18447
+URL: https://arxiv.org/abs/2411.18447
+PDF: https://arxiv.org/pdf/2411.18447
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces Continuous Autoregressive Models (CAMs) that generate sequences of continuous
+embeddings, which can suffer from error accumulation during inference. To address this issue, the authors propose a novel method that injects random
+noise into input embeddings during training, making the model robust against varying error levels. Additionally, they introduce an inference
+procedure that introduces low-level noise to further reduce error accumulation. Experimental results on musical audio generation show that CAMs
+substantially outperform existing autoregressive and non-autoregressive models.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18444
+URL: https://arxiv.org/abs/2411.18444
+PDF: https://arxiv.org/pdf/2411.18444
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose MESA, a multi-large language model (LLM) evaluator to assess the quality of meeting
+summaries generated by natural language generation (NLG) systems. Current metrics, such as ROUGE and BERTScore, have limited correlation with human
+judgments and fail to capture nuanced errors. MESA uses a three-step assessment of individual error types and multi-agent discussion to refine
+decisions, aiming to provide a more accurate evaluation of meeting summary quality. This framework aims to overcome the limitations of existing
+LLM-based evaluators and provide a more reliable alternative to human evaluation.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18442
+URL: https://arxiv.org/abs/2411.18442
+PDF: https://arxiv.org/pdf/2411.18442
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes Metric-DST, a diversity-guided semi-supervised metric learning approach to mitigate
+selection bias in machine learning models. Selection bias occurs when models are trained on data that is not representative of the population,
+leading to undesirable behavior for under-represented profiles. Conventional self-training methods can reinforce existing bias by focusing on
+high-confidence data samples. Metric-DST addresses this issue by incorporating unlabeled data that is diverse and informative, improving model
+fairness and effectiveness. The approach uses a novel metric learning objective to guide the selection of diverse data samples for self-training.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18428
+URL: https://arxiv.org/abs/2411.18428
+PDF: https://arxiv.org/pdf/2411.18428
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes MM-Path, a multi-modal, multi-granularity path representation learning model that
+integrates information from multiple modalities, including road networks, remote sensing images, and other contextual features. This approach aims to
+provide a more comprehensive view of paths, enhancing both representation accuracy and generalization. Unlike previous models that focus on single
+modality data, MM-Path leverages the strengths of multiple modalities to learn more robust and accurate path representations. The model is designed
+to capture both topological structures and geometric features, enabling it to better understand and represent paths in various intelligent
+transportation applications.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18384
+URL: https://arxiv.org/abs/2411.18384
+PDF: https://arxiv.org/pdf/2411.18384
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes an optimal in-network distribution of learning functions for a secure-by-design
+programmable data plane in next-generation networks. The goal is to support distributed intrusion detection systems (IDS) by subdividing a "Strong
+Learner" model into lighter "Weak Learner" models and distributing them among data plane devices. This approach optimizes the IDS workload and
+enables in-network execution of machine learning algorithms. The proposed model improves the scalability and efficiency of IDS systems, enhancing
+network security.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18382
+URL: https://arxiv.org/abs/2411.18382
+PDF: https://arxiv.org/pdf/2411.18382
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers from Science Po and University of Neuchatel analyzed the writing style of ChatGPT, a large
+language model, by comparing its generated messages with those of recent French presidents. They compared end-of-year addresses written by Chirac,
+Sarkozy, Hollande, and Macron with those produced by ChatGPT. The study found that ChatGPT tends to overuse nouns and possessive determiners, and its
+writing style differs significantly from that of the presidents. The results suggest that while ChatGPT can generate coherent text, it lacks the
+nuance and sophistication of human writing. The study highlights the need for further development of AI writing assistants to improve their writing
+style and effectiveness.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18369
+URL: https://arxiv.org/abs/2411.18369
+PDF: https://arxiv.org/pdf/2411.18369
+
+Summary:
+Here is a concise summary of the paper:
+
+G3Flow is a novel framework that generates real-time semantic flow, a dynamic 3D representation of objects,
+by combining 3D generative models and vision foundation models. This approach enables seamless integration of geometric precision and semantic
+understanding for human-level dexterity in 3D robotic manipulation. G3Flow achieves pose-aware and generalizable object manipulation by leveraging
+foundation models and constructing a dynamic, object-centric 3D semantic representation. The framework demonstrates promising results in imitation
+learning for 3D robotic manipulation, outperforming previous methods.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18368
+URL: https://arxiv.org/abs/2411.18368
+PDF: https://arxiv.org/pdf/2411.18368
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper presents AMPS, a technique that improves conversational automatic speech recognition (ASR) in
+multiple languages by using paraphrase-based supervision. AMPS augments a multimodal ASR system with paraphrases of reference transcriptions, which
+are used to selectively improve ASR performance for utterances with poor accuracy. The technique is tested with a state-of-the-art multimodal model,
+SeamlessM4T, and achieves significant relative reductions in word error rates (WERs) of up to 5%. AMPS is demonstrated to be effective in improving
+ASR performance in languages such as Hindi, Marathi, Malayalam, Kannada, and Nyanja.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18365
+URL: https://arxiv.org/abs/2411.18365
+PDF: https://arxiv.org/pdf/2411.18365
+
+Summary:
+Here is a concise summary of the paper:
+
+This study compares the writing style of ChatGPT 3.5, a large language model, with that of four US
+presidents (Reagan to Obama) by analyzing their State of the Union addresses. The analysis reveals that ChatGPT tends to overuse certain words and
+punctuation, such as the pronoun "we" and commas, whereas it uses fewer verbs. Additionally, the generated speeches are longer on average. The study
+provides insights into the differences between human-written and AI-generated texts, sparking new perspectives and concerns about the role of
+language models in communication.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18350
+URL: https://arxiv.org/abs/2411.18350
+PDF: https://arxiv.org/pdf/2411.18350
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces Virtual Try-Off (VTOFF), a novel task that generates standardized garment images from
+single photos of clothed individuals. Unlike traditional Virtual Try-On, VTOFF aims to extract a canonical garment image, posing challenges in
+capturing garment shape, texture, and intricate patterns. The authors propose a method, TryOffDiff, that uses diffusion models to reconstruct
+high-fidelity garment images from a single reference image. The approach naturally renders the garment against a clean background, preserving the
+standard pose and capturing complex details. The results demonstrate the effectiveness of TryOffDiff in generating realistic and detailed garment
+images.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18343
+URL: https://arxiv.org/abs/2411.18343
+PDF: https://arxiv.org/pdf/2411.18343
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel interpretability method called FreqX for personalized federated learning (PFL)
+models. PFL allows clients to train a personalized model without sharing their private data, but it faces challenges such as non-independent and
+identically distributed (Non-IID) data, heterogeneous devices, and lack of fairness. FreqX uses signal processing and information theory to provide
+both attribution and concept information, outperforming baselines in terms of speed and accuracy. The method runs at least 10 times faster than
+existing concept-based methods. FreqX aims to overcome the challenges of PFL by providing interpretable explanations for deep learning models.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18335
+URL: https://arxiv.org/abs/2411.18335
+PDF: https://arxiv.org/pdf/2411.18335
+
+Summary:
+Here is a concise summary of the paper:
+
+The HELVIPAD dataset is introduced, providing a real-world dataset for omnidirectional stereo depth
+estimation. The dataset consists of 40,000 frames from video sequences captured using two 360° cameras in a top-bottom configuration, covering
+diverse environments and lighting conditions. The dataset aims to address the lack of suitable data for omnidirectional imaging, which has hindered
+progress in stereo depth estimation. The dataset is suitable for training and evaluating algorithms for omnidirectional stereo depth estimation in
+dynamic human environments.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18324
+URL: https://arxiv.org/abs/2411.18324
+PDF: https://arxiv.org/pdf/2411.18324
+
+Summary:
+Here is a concise summary of the paper:
+
+RITA is an automated, open-source framework designed to facilitate the development of resilient Internet of
+Things (IoT) applications. The framework identifies IoT Critical Objects (ICOs), conducts threat analysis, and selects mitigation strategies,
+eliminating the need for manual processes. RITA uses a fine-tuned RoBERTa-based Named Entity Recognition model to automate the process, reducing
+inefficiencies and risks. This framework addresses the limitations of existing tools, such as ChatGPT, which raise concerns over data privacy,
+inconsistent outputs, and internet dependence. RITA provides a reliable and efficient solution for designing resilient IoT systems.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18321
+URL: https://arxiv.org/abs/2411.18321
+PDF: https://arxiv.org/pdf/2411.18321
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose a machine learning-based approach to predict the optimal objective value in Mixed
+Integer Linear Programming (MILP) problems. They introduce a graph neural network (GNN) architecture with dynamic features to predict whether the
+current incumbent solution is optimal. Experimental results on diverse benchmarks show high accuracy in the prediction task, outperforming existing
+methods. This approach has the potential to enhance and support MILP solvers, particularly in the Branch-and-Bound algorithm. The authors' findings
+suggest new opportunities for integrating machine learning with MILP solvers to improve their efficiency.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18320
+URL: https://arxiv.org/abs/2411.18320
+PDF: https://arxiv.org/pdf/2411.18320
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel approach to continual learning in automatic speech recognition (ASR) systems,
+using the machine speech chain framework and gradient episodic memory (GEM). The approach incorporates a text-to-speech (TTS) component to support
+the replay mechanism essential for GEM, allowing the ASR model to learn from previously learned tasks while adapting to new ones. This enables the
+model to avoid catastrophic forgetting and maintain performance on pre-existing tasks. The proposed method leverages the machine speech chain
+framework to enable continual learning in ASR, achieving improved performance and adaptability.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18309
+URL: https://arxiv.org/abs/2411.18309
+PDF: https://arxiv.org/pdf/2411.18309
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose MvKeTR, a novel approach for automatic CT report generation that incorporates diagnostic
+information from multiple anatomical views and clinical expertise. The system uses a Multi-View Perception Aggregator (MVPA) with view-aware
+attention to synthesize information from multiple views, mimicking the diagnostic workflow of clinicians. The MVPA is then followed by a
+Knowledge-enhanced Transformer (KeT) that leverages clinical expertise to generate accurate and reliable reports. The proposed approach addresses
+limitations of existing works and has the potential to relieve clinicians' workload and improve patient care.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18305
+URL: https://arxiv.org/abs/2411.18305
+PDF: https://arxiv.org/pdf/2411.18305
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper applies the Soft Actor-Critic (SAC) algorithm to optimize wastewater treatment with time delays.
+The authors demonstrate that conventional control methods, such as PID controllers, are suboptimal due to the complex dynamics, slow time constants,
+and stochastic delays in wastewater treatment plants. The SAC algorithm is shown to effectively handle these challenges and achieve efficient
+phosphorus removal. The results indicate that SAC outperforms traditional control methods in terms of phosphorus removal efficiency and robustness.
+The study highlights the potential of SAC algorithms for improving wastewater treatment process control.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18294
+URL: https://arxiv.org/abs/2411.18294
+PDF: https://arxiv.org/pdf/2411.18294
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper proposes a novel approach to end-to-end speech translation using pre-trained automatic speech
+recognition and machine translation models. The approach involves aligning the models via a small connector module, which transforms ASR encoder
+embeddings into the latent representation space of the MT encoder. The connector module is the only part optimized during training, while the
+pre-trained models remain frozen. The approach is tested on the How2 English-Portuguese dataset and achieves promising results, with the connector
+module being a small fraction of the size of the aligned models.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18286
+URL: https://arxiv.org/abs/2411.18286
+PDF: https://arxiv.org/pdf/2411.18286
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes DualCast, a dual-branch model framework to improve traffic forecasting, particularly for
+aperiodic events such as traffic incidents. Traditional models often favor periodic events over aperiodic ones, which can lead to missed predictions.
+DualCast addresses this issue by disentangling aperiodic events from traffic series, enabling more accurate forecasting. The model's dual-branch
+architecture enhances the learning capability of traffic forecasting models, allowing for better detection of aperiodic events.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18276
+URL: https://arxiv.org/abs/2411.18276
+PDF: https://arxiv.org/pdf/2411.18276
+
+Summary:
+Here is a concise summary of the paper:
+
+The GAPartManip dataset is a large-scale, part-centric dataset for material-agnostic articulated object
+manipulation. It addresses the limitations of current 3D vision methods, which often struggle with imperfect depth perception and lack diversity in
+part-based interactions. The dataset features photo-realistic material randomizations and detailed annotations of part-oriented, scene-level
+actionable interactions. This dataset aims to enable flexible and adaptable manipulation of articulated objects in household scenarios, a crucial
+step towards achieving general embodied artificial intelligence.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18266
+URL: https://arxiv.org/abs/2411.18266
+PDF: https://arxiv.org/pdf/2411.18266
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a wearable intelligent throat device that enables natural speech in stroke patients
+with dysarthria, a speech disorder caused by brain damage. The device uses sensors and machine learning algorithms to detect and correct speech
+errors in real-time. In a clinical trial, patients who used the device showed significant improvements in speech intelligibility and naturalness
+compared to traditional speech therapy. The device's effectiveness was demonstrated through both subjective and objective assessments, including
+speech recordings and listener ratings. This innovative technology has the potential to improve communication and quality of life for individuals
+with dysarthria.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18253
+URL: https://arxiv.org/abs/2411.18253
+PDF: https://arxiv.org/pdf/2411.18253
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a deep learning model that integrates multimodal longitudinal data from non-invasive
+diagnostics to predict survival outcomes in immunotherapy-treated patients. The model combined clinical, radiological, and laboratory data from
+multiple sources to improve accuracy. The study used data from 144 patients with melanoma and found that the model outperformed traditional survival
+prediction methods. The model achieved an area under the receiver operating characteristic curve of 0.83, indicating high accuracy. This work
+demonstrates the potential of multimodal deep learning for personalized survival prediction in immunotherapy-treated patients.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18250
+URL: https://arxiv.org/abs/2411.18250
+PDF: https://arxiv.org/pdf/2411.18250
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces IKUN, a variance-stabilizing initialization method specifically designed for Spiking
+Neural Networks (SNNs). IKUN integrates surrogate gradient functions to stabilize signal propagation, accelerate convergence, and enhance
+generalization. Experimental results show that IKUN improves training efficiency by up to 50% and achieves 95% training accuracy and 91%
+generalization accuracy. Hessian analysis reveals that IKUN-trained models converge to flatter minima, characterized by Hessian eigenvalues near zero
+on the positive side, promoting better generalization. IKUN addresses the limitations of traditional initialization methods for SNNs, providing a
+more effective solution for training and generalizing SNNs.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18242
+URL: https://arxiv.org/abs/2411.18242
+PDF: https://arxiv.org/pdf/2411.18242
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a Thai Financial Large Language Model (LLM) using the Investment Consultant (IC) exam
+dataset from the Stock Exchange of Thailand. To address dataset limitations, they applied data augmentation, continued pretraining, and fine-tuning
+techniques. The model achieved scores of 72%, 72%, and 84% on IC exam levels P1, P2, and P3, respectively, demonstrating its effectiveness in the
+Thai financial domain. The model was trained using a combination of supervised fine-tuning and direct preference optimization. This research aims to
+fill the gap in existing financial LLMs, which lack support for the Thai financial domain.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18241
+URL: https://arxiv.org/abs/2411.18241
+PDF: https://arxiv.org/pdf/2411.18241
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper explores the application of large language model (LLM) technology in multi-agent systems. The
+authors integrate LangGraph and CrewAI to improve information transmission efficiency and team collaboration capabilities. LangGraph uses a graph
+architecture to enhance information transmission, while CrewAI optimizes task allocation and resource management to boost system performance. The
+integrated system enables multi-agents to achieve complex tasks through division of labor and collaboration. The authors demonstrate the potential of
+this technology to revolutionize various fields and transform people's work and lifestyles.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18235
+URL: https://arxiv.org/abs/2411.18235
+PDF: https://arxiv.org/pdf/2411.18235
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a certified training framework, CT-BaB, for learning Lyapunov-stable neural controllers
+that satisfy the Lyapunov asymptotic stability condition within a region-of-attraction. Unlike previous works, CT-BaB optimizes for differentiable
+verified bounds to produce verification-friendly models. The framework uses a novel branch-and-bound approach to dynamically maintain a training
+dataset of subregions, iteratively splitting the hardest subregions into smaller ones with verified bounds. This approach allows for efficient
+training on large regions-of-interest. The paper demonstrates the effectiveness of CT-BaB in learning Lyapunov-stable neural controllers.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18444
+URL: https://arxiv.org/abs/2411.18444
+PDF: https://arxiv.org/pdf/2411.18444
+
+Summary:
+Here is a concise summary of the paper:
+
+The quality of meeting summaries generated by natural language generation systems is difficult to measure
+automatically. Current metrics, such as ROUGE and BERTScore, have a low correlation with human judgments and fail to capture nuanced errors. The
+authors propose MESA, a framework that uses large language models to evaluate meeting summaries by assessing individual error types and incorporating
+multi-agent discussion for decision refinement. MESA aims to improve upon existing LLM-based evaluators, which can mask errors and serve as a weak
+proxy for human evaluation. The framework aims to provide a more accurate and reliable method for evaluating meeting summary quality.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18442
+URL: https://arxiv.org/abs/2411.18442
+PDF: https://arxiv.org/pdf/2411.18442
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes Metric-DST, a diversity-guided semi-supervised metric learning approach to mitigate
+selection bias in machine learning models. Selection bias occurs when models are trained on data that is not representative of the population,
+leading to undesirable behavior for under-represented profiles. Conventional self-training methods can exacerbate this issue by focusing on
+high-confidence data samples. Metric-DST instead incorporates unlabeled data to gain a better understanding of the population distribution, while
+promoting diversity in the model's decision-making process. This approach aims to improve the fairness and effectiveness of machine learning models.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18428
+URL: https://arxiv.org/abs/2411.18428
+PDF: https://arxiv.org/pdf/2411.18428
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes MM-Path, a multi-modal, multi-granularity path representation learning model that
+integrates information from multiple modalities, including road networks and path-related images. The model aims to capture both topological
+structures and geometric and contextual features associated with paths. By incorporating multiple modalities, MM-Path enhances representation
+accuracy and generalization. The model is designed to learn path representations that can be applied to various intelligent transportation
+applications. The authors demonstrate the effectiveness of MM-Path in improving path representation learning.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18384
+URL: https://arxiv.org/abs/2411.18384
+PDF: https://arxiv.org/pdf/2411.18384
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes an optimal in-network distribution of learning functions for a secure-by-design
+programmable data plane in next-generation networks. The goal is to support distributed intrusion detection systems (IDS) by subdividing a "Strong
+Learner" model into lighter "Weak Learner" models and distributing them among data plane devices. This approach optimizes the IDS workload and
+enables in-network execution of machine learning algorithms. The proposed model improves the scalability and efficiency of IDS systems, enhancing
+network security.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18382
+URL: https://arxiv.org/abs/2411.18382
+PDF: https://arxiv.org/pdf/2411.18382
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers from Science Po and University of Neuchatel analyzed the writing style of ChatGPT, a large
+language model, by comparing its generated messages with those of recent French presidents. The study compared end-of-year addresses written by
+Chirac, Sarkozy, Hollande, and Macron with those produced by ChatGPT. The results showed that ChatGPT tends to overuse nouns and possessive
+determiners, indicating a distinct writing style. This analysis aims to assess the potential of ChatGPT as a speechwriter for French presidents,
+highlighting both its capabilities and limitations. The study contributes to the ongoing discussion on the role of AI-generated content in politics
+and public communication.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18369
+URL: https://arxiv.org/abs/2411.18369
+PDF: https://arxiv.org/pdf/2411.18369
+
+Summary:
+Here is a concise summary of the paper:
+
+G3Flow is a novel framework that generates real-time semantic flow, a dynamic 3D representation of objects,
+by combining 3D generative models and vision foundation models. This framework enables seamless integration of geometric precision and semantic
+understanding for human-level dexterity in 3D robotic manipulation. G3Flow achieves pose-aware and generalizable object manipulation by leveraging
+foundation models and constructing a dynamic, object-centric 3D semantic representation. The approach demonstrates promising results in imitation
+learning for 3D robotic manipulation.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18368
+URL: https://arxiv.org/abs/2411.18368
+PDF: https://arxiv.org/pdf/2411.18368
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces AMPS, a technique that improves conversational automatic speech recognition (ASR) in
+multiple languages by using paraphrase-based supervision. AMPS augments a multimodal ASR system with paraphrases of reference transcriptions, which
+are used to selectively improve ASR performance on utterances with poor accuracy. When applied to a state-of-the-art multimodal model, SeamlessM4T,
+AMPS achieves significant relative reductions in word error rates (WERs) of up to 5%. The approach is tested on five languages: Hindi, Marathi,
+Malayalam, Kannada, and Nyanja. AMPS demonstrates improved conversational ASR performance in these languages, outperforming the baseline model.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18365
+URL: https://arxiv.org/abs/2411.18365
+PDF: https://arxiv.org/pdf/2411.18365
+
+Summary:
+Here is a concise summary of the paper:
+
+This study compares the writing style of ChatGPT 3.5, a large language model, with that of four US
+presidents (Reagan to Obama) in their State of the Union addresses. The analysis reveals that ChatGPT tends to overuse certain words and punctuation,
+such as the pronoun "we" and commas, while using fewer verbs. In contrast, the generated speeches by ChatGPT have longer sentences on average. The
+study highlights the differences between human-written and AI-generated texts, sparking concerns and new perspectives on the role of language models
+in communication.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18350
+URL: https://arxiv.org/abs/2411.18350
+PDF: https://arxiv.org/pdf/2411.18350
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces Virtual Try-Off (VTOFF), a novel task that generates standardized garment images from a
+single photo of a clothed individual. Unlike traditional Virtual Try-On, VTOFF aims to extract a canonical garment image, posing challenges in
+capturing garment shape, texture, and intricate patterns. The authors propose a method using diffusion models to reconstruct high-fidelity garment
+images, achieving natural rendering of garments against a clean background and preserving complex details. The method is demonstrated to produce
+accurate results, as shown in Figure 1, which compares the input reference image, the model's prediction, and the ground truth.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18343
+URL: https://arxiv.org/abs/2411.18343
+PDF: https://arxiv.org/pdf/2411.18343
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes FreqX, a novel interpretability method for personalized federated learning (PFL) models.
+PFL allows clients to train personalized models without sharing their private data, but it faces challenges such as non-independent and identically
+distributed (Non-IID) data, heterogeneous devices, and lack of fairness. FreqX addresses these challenges by introducing signal processing and
+information theory, providing both attribution and concept information. The method is shown to be at least 10 times faster than baseline methods and
+provides detailed explanations. FreqX aims to overcome the limitations of current interpretability methods and provide a more comprehensive
+understanding of deep learning models in PFL.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18335
+URL: https://arxiv.org/abs/2411.18335
+PDF: https://arxiv.org/pdf/2411.18335
+
+Summary:
+Here is a concise summary of the paper:
+
+The HELVIPAD dataset is introduced, a real-world dataset for omnidirectional stereo depth estimation. The
+dataset consists of 40,000 frames from video sequences captured using two 360° cameras in a top-bottom configuration, covering diverse environments
+and lighting conditions. The dataset is designed to facilitate research in omnidirectional stereo depth estimation, which has been underexplored due
+to the lack of suitable data. The dataset is suitable for evaluating and training algorithms for omnidirectional stereo depth estimation in dynamic
+human environments.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18324
+URL: https://arxiv.org/abs/2411.18324
+PDF: https://arxiv.org/pdf/2411.18324
+
+Summary:
+Here is a concise summary of the paper:
+
+RITA is an automated, open-source framework that designs resilient Internet of Things (IoT) applications.
+The framework identifies IoT Critical Objects, conducts threat analysis, and selects mitigation strategies. Traditional manual design processes are
+inefficient and risky, and existing tools like ChatGPT have limitations. RITA uses a fine-tuned RoBERTa-based Named Entity Recognition model to
+automate the design process. This framework aims to improve the efficiency and effectiveness of designing resilient IoT systems.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18321
+URL: https://arxiv.org/abs/2411.18321
+PDF: https://arxiv.org/pdf/2411.18321
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose a machine learning-based approach to predict the optimal objective value in Mixed
+Integer Linear Programming (MILP) problems. They introduce a graph neural network (GNN) architecture with dynamic features to predict whether the
+current incumbent solution is optimal. Experimental results on various benchmarks show high accuracy in the prediction task, outperforming existing
+methods. This approach has the potential to enhance and support MILP solvers, particularly in the Branch-and-Bound algorithm. The findings suggest
+new opportunities for integrating machine learning into MILP solvers to improve their performance.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18320
+URL: https://arxiv.org/abs/2411.18320
+PDF: https://arxiv.org/pdf/2411.18320
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel approach to continual learning in automatic speech recognition (ASR) systems
+using gradient episodic memory (GEM). The approach leverages the machine speech chain framework and incorporates a text-to-speech (TTS) component to
+enable replay of previously learned tasks. This allows the ASR model to avoid catastrophic forgetting and maintain performance on previously learned
+tasks. The GEM mechanism enables the model to learn from new tasks without forgetting old ones. The proposed approach enables continual learning in
+ASR systems, improving their ability to adapt to new tasks and maintain performance over time.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18309
+URL: https://arxiv.org/abs/2411.18309
+PDF: https://arxiv.org/pdf/2411.18309
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose MvKeTR, a novel approach for automatic chest CT report generation that incorporates
+diagnostic information from multiple anatomical views and clinical expertise. The system uses a Multi-View Perception Aggregator to synthesize
+information from multiple views, followed by a Knowledge-enhanced Transformer to generate accurate and reliable reports. MvKeTR mimics the diagnostic
+workflow of clinicians, first examining CT scans from multiple planes and then referring to relevant clinical knowledge. The approach improves upon
+existing works by effectively incorporating diagnostic information from multiple views and leveraging clinical expertise. The authors demonstrate the
+effectiveness of MvKeTR in generating high-quality reports.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18305
+URL: https://arxiv.org/abs/2411.18305
+PDF: https://arxiv.org/pdf/2411.18305
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper applies the Soft Actor-Critic (SAC) algorithm to optimize wastewater treatment with time delays.
+The authors address the challenges of complex dynamics, slow time constants, and stochastic delays in observations and actions, which conventional
+control methods struggle to overcome. SAC is used to learn an optimal policy for phosphorus removal in wastewater treatment plants. The results show
+that SAC outperforms traditional Proportional-Integral-Derivative (PID) controllers in terms of efficiency and robustness. The proposed approach
+demonstrates the potential for advanced control strategies to improve wastewater treatment plant performance.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18294
+URL: https://arxiv.org/abs/2411.18294
+PDF: https://arxiv.org/pdf/2411.18294
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper proposes a novel approach to end-to-end speech translation using pre-trained automatic speech
+recognition and machine translation models. The approach involves aligning the two models via a small connector module, which bridges the gap between
+speech and text modalities. The connector module is optimized during training and is small compared to the larger aligned models. Experiments on the
+How2 English-Portuguese dataset show the effectiveness of this approach in a small-scale scenario. The results demonstrate that the connector module
+can efficiently align the pre-trained models for spoken language translation.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18286
+URL: https://arxiv.org/abs/2411.18286
+PDF: https://arxiv.org/pdf/2411.18286
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes DualCast, a dual-branch model framework to improve traffic forecasting, particularly for
+aperiodic events such as traffic incidents. Existing models often favor periodic events over aperiodic ones, which can lead to missed predictions.
+DualCast aims to enhance the learning capability of traffic forecasting models by disentangling aperiodic events from traffic series. The model uses
+a dual-branch architecture to learn both periodic and aperiodic patterns in traffic data. By doing so, DualCast can provide more accurate and
+comprehensive traffic forecasts, enabling better optimization and operation of transportation systems.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18276
+URL: https://arxiv.org/abs/2411.18276
+PDF: https://arxiv.org/pdf/2411.18276
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces GAPartManip, a large-scale dataset for material-agnostic articulated object
+manipulation. The dataset features photo-realistic randomizations of object materials and detailed annotations of part-oriented, scene-level
+actionable interactions. This dataset addresses the limitations of previous methods, which often rely on depth perception and pose detection, and
+struggle with imperfect depth perception in real-world environments. GAPartManip enables flexible and adaptable manipulation by providing a diverse
+set of part-based interactions. This dataset aims to facilitate the development of general embodied artificial intelligence capable of effectively
+manipulating articulated objects in household scenarios.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18266
+URL: https://arxiv.org/abs/2411.18266
+PDF: https://arxiv.org/pdf/2411.18266
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a wearable intelligent throat device that enables natural speech in stroke patients
+with dysarthria. The device uses sensors and machine learning algorithms to detect and correct speech disorders. In a clinical trial, the device
+improved speech intelligibility and naturalness in patients with dysarthria, with significant improvements in speech quality and patient
+satisfaction. The device has the potential to improve communication and quality of life for individuals with speech disorders. The study demonstrates
+the feasibility and effectiveness of the wearable device in restoring natural speech in patients with dysarthria.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18253
+URL: https://arxiv.org/abs/2411.18253
+PDF: https://arxiv.org/pdf/2411.18253
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a deep learning model that integrates multimodal longitudinal data from non-invasive
+diagnostics to predict survival outcomes in immunotherapy patients. The model combined data from radiology, laboratory tests, and medical oncology to
+improve accuracy. The study used data from 1,144 patients with melanoma and found that the model outperformed traditional survival prediction
+methods. The model achieved an area under the receiver operating characteristic curve of 0.83, indicating high accuracy. This study demonstrates the
+potential of multimodal deep learning for personalized medicine in immunotherapy.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18250
+URL: https://arxiv.org/abs/2411.18250
+PDF: https://arxiv.org/pdf/2411.18250
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces IKUN, a variance-stabilizing initialization method specifically designed for Spiking
+Neural Networks (SNNs). IKUN integrates surrogate gradient functions to stabilize signal propagation, accelerate convergence, and enhance
+generalization. Experiments show that IKUN improves training efficiency by up to 50% and achieves high training and generalization accuracy. Hessian
+analysis reveals that IKUN-trained models converge to flatter minima, promoting better generalization.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18242
+URL: https://arxiv.org/abs/2411.18242
+PDF: https://arxiv.org/pdf/2411.18242
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper presents THaLLE, a Thai Financial Domain Adaptation model developed to address the limitations of
+existing Large Language Models (LLMs) in the Thai financial domain. The model was trained using the Investment Consultant (IC) exam dataset from the
+Stock Exchange of Thailand and employed data augmentation, continued pretraining, and fine-tuning techniques. The model achieved high scores of 72%,
+72%, and 84% on IC exam levels P1, P2, and P3, respectively, demonstrating its effectiveness in the Thai financial domain. The model's performance
+was refined through supervised fine-tuning and direct preference optimization. The THaLLE model is expected to support Thai financial institutions
+and professionals in their decision-making processes.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18241
+URL: https://arxiv.org/abs/2411.18241
+PDF: https://arxiv.org/pdf/2411.18241
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper explores the application of multi-agent technology using LangGraph and CrewAI. LangGraph improves
+information transmission efficiency through graph architecture, while CrewAI enhances team collaboration and system performance through intelligent
+task allocation and resource management. The integrated application enables complex tasks to be completed in complex and dynamic systems, which is
+difficult for a single agent to accomplish. The paper discusses the potential of this technology to revolutionize various fields and transform
+people's work and lifestyles.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18235
+URL: https://arxiv.org/abs/2411.18235
+PDF: https://arxiv.org/pdf/2411.18235
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper presents a new certified training framework, CT-BaB, for learning Lyapunov-stable neural
+controllers. Unlike previous methods, CT-BaB optimizes for differentiable verified bounds to produce verification-friendly models. To handle large
+regions of interest, the authors propose a novel branch-and-bound framework that dynamically maintains a training dataset of subregions, iteratively
+splitting the hardest subregions into smaller ones with verified bounds. This approach enables the training of Lyapunov-stable neural controllers
+that provably satisfy the Lyapunov asymptotic stability condition within a region-of-attraction. The method is shown to be effective in producing
+verification-friendly models.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18234
+URL: https://arxiv.org/abs/2411.18234
+PDF: https://arxiv.org/pdf/2411.18234
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a randomized-grid search method for hyperparameter tuning in decision tree models to
+improve cardiovascular disease classification. The method aims to overcome overfitting issues common in machine learning algorithms like SVM, NB,
+DTs, and RFs. By combining random search with grid search, the method efficiently explores the hyperparameter space to find optimal regions. The
+approach is applied to electronic health data and demonstrates improved performance in heart disease classification. The randomized-grid search
+method can be used to enhance the accuracy of machine learning-based diagnosis systems for cardiovascular diseases.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18226
+URL: https://arxiv.org/abs/2411.18226
+PDF: https://arxiv.org/pdf/2411.18226
+
+Summary:
+Here is a concise summary of the paper:
+
+Feature-Factory is a system that automates software feature integration using generative AI. It leverages
+Watson X.ai to analyze, plan, and implement feature requests, ensuring seamless integration while maintaining structural integrity. The system
+combines advanced project parsing, dependency resolution, and AI-generated code to achieve this. The paper presents the methodology, mathematical
+model, and results of the Feature-Factory framework, which aims to simplify and accelerate the feature integration process.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18225
+URL: https://arxiv.org/abs/2411.18225
+PDF: https://arxiv.org/pdf/2411.18225
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose PATHS, a hierarchical transformer model for efficient whole slide image analysis. PATHS
+addresses the issue of processing large WSIs as a bag of patches, which can be noisy and computationally expensive. Instead, PATHS uses a
+hierarchical approach to select informative patches, reducing the noise and computational requirements. This allows for more accurate and efficient
+analysis of WSIs, with potential applications in diagnostic and prognostic tasks such as cancer subtype prediction. PATHS outperforms
+state-of-the-art models on several benchmarks, demonstrating its effectiveness in whole slide image analysis.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18220
+URL: https://arxiv.org/abs/2411.18220
+PDF: https://arxiv.org/pdf/2411.18220
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes R-MTLLMF, a resilient multi-task large language model fusion approach that enables edge
+users to collaboratively craft models via task vectors. The approach combines fine-tuning parameters to produce an efficient multi-task large
+language model (MTLLM) under worst-case adversarial attacks. The authors study the problem of enabling edge users to craft MTLLMs via task vectors,
+addressing the complexity and exhaustiveness of training MTLLMs. The proposed approach is designed to handle multiple tasks efficiently and adapt to
+changing task requirements.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18212
+URL: https://arxiv.org/abs/2411.18212
+PDF: https://arxiv.org/pdf/2411.18212
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel approach to path planning in complex wireless-aware environments using vision
+language models (VLMs). The approach leverages insights from a digital twin (DT) with real-world wireless ray tracing data to guarantee an average
+path gain threshold while minimizing trajectory length. The proposed method is compared to traditional approaches such as A* and is shown to be
+effective in complex scenarios. The use of VLMs enables the incorporation of additional side constraints, such as wireless signal strength, into the
+path planning process. The approach has potential applications in robotics and other fields where path planning is critical.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18211
+URL: https://arxiv.org/abs/2411.18211
+PDF: https://arxiv.org/pdf/2411.18211
+
+Summary:
+Here is a concise summary of the paper:
+
+TimeMarker is a versatile video-language model that excels in temporal localization and can handle videos of
+varying lengths. It integrates Temporal Separator Tokens to accurately mark specific moments within videos. The model employs the AnyLength mechanism
+for dynamic frame sampling and adaptive token merging, allowing it to effectively process both short and long videos. TimeMarker is designed for
+high-quality dialogue generation based on video content, making it a valuable tool for various applications. Overall, TimeMarker achieves superior
+temporal localization ability compared to existing video-language models.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18207
+URL: https://arxiv.org/abs/2411.18207
+PDF: https://arxiv.org/pdf/2411.18207
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose a framework that enables open vocabulary object detection (OVD) models to detect novel
+objects without relying on accurate prompts from an "oracle". Current OVD methods are limited by their reliance on oracles and tend to misclassify
+objects with similar semantics to known classes or ignore objects that are far out of distribution. The proposed framework aims to address these
+limitations by allowing OVD models to operate in open-world scenarios. The authors demonstrate the effectiveness of their approach, enabling OVD
+models to detect novel objects and improve performance on out-of-distribution objects. This breakthrough has significant implications for
+applications such as driving scene perception, where accurate object detection is crucial.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18201
+URL: https://arxiv.org/abs/2411.18201
+PDF: https://arxiv.org/pdf/2411.18201
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a neuro-symbolic abductive imitation approach for long-horizon planning. Unlike
+traditional learning-to-imitation methods, which struggle with long-horizon tasks, this approach combines the strengths of symbolic planning and
+imitation learning. The method uses logical reasoning over human-defined symbolic spaces to plan for long-horizon tasks, while also leveraging
+imitation learning to adapt to novel situations. This approach achieves promising results in open environments, demonstrating the potential for
+long-horizon planning via neuro-symbolic abductive imitation.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18179
+URL: https://arxiv.org/abs/2411.18179
+PDF: https://arxiv.org/pdf/2411.18179
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel approach, "Prediction with Action", which combines diffusion models for image
+generation and robotic control tasks. The authors demonstrate that diffusion models can be used for both image prediction and robotic action
+denoising, which share a similar denoising process. By jointly learning these two tasks, the model can predict future images and generate actions
+that are highly correlated. This approach enables the model to learn a visual policy that can be used for robotic control tasks. The results show
+that the proposed method outperforms existing methods in robotic control tasks.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18169
+URL: https://arxiv.org/abs/2411.18169
+PDF: https://arxiv.org/pdf/2411.18169
+
+Summary:
+Here is a concise summary of the paper:
+
+PDZSeg is a novel approach that adapts foundation models for dissection zone segmentation in robot-assisted
+endoscopic submucosal dissection. The method uses visual prompts to improve segmentation accuracy, addressing the challenge of unclear boundaries
+between different tissue types. The authors propose a framework that leverages foundation models and visual prompts to enhance segmentation
+performance. Experimental results demonstrate improved segmentation accuracy and robustness compared to existing methods.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18157
+URL: https://arxiv.org/abs/2411.18157
+PDF: https://arxiv.org/pdf/2411.18157
+
+Summary:
+Here is a concise summary of the paper:
+
+This survey examines the latest advancements in Relation Extraction (RE) techniques, focusing on models that
+leverage language models. Analyzing 137 papers from the Association for Computational Linguistics (ACL) conferences over four years, the study finds
+that BERT-based methods dominate in achieving state-of-the-art results for RE. However, emerging large language models (LLMs) like T5 show promising
+capabilities, particularly in few-shot relation extraction scenarios where they excel. The survey highlights the evolution and current state of RE
+techniques, emphasizing the importance of language models in achieving accurate results. Overall, the study provides a comprehensive overview of the
+latest advancements in RE and its applications.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18141
+URL: https://arxiv.org/abs/2411.18141
+PDF: https://arxiv.org/pdf/2411.18141
+
+Summary:
+Here is a concise summary of the paper:
+
+This study applies Quantum Machine Learning (QML) techniques to predict water quality in the Umgeni
+Catchment (U20A) region in Durban, South Africa. The researchers used the Quantum Support Vector Classifier (QSVC) and Quantum Neural Network (QNN)
+models, finding that QSVC is easier to implement and yields higher accuracy. The QSVC was applied with three kernels (Linear, Polynomial, and Radial
+Basis Function) and showed that Polynomial and RBF kernels performed better. The results demonstrate the potential of QML in predicting water
+quality, with implications for water resource management.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18138
+URL: https://arxiv.org/abs/2411.18138
+PDF: https://arxiv.org/pdf/2411.18138
+
+Summary:
+Here is a concise summary of the paper:
+
+SALMONN-omni is a codec-free, full-duplex large language model that integrates speech understanding and
+generation into a single end-to-end model. This design eliminates error propagation and leverages rich non-verbal information in input speech
+signals. Unlike traditional modularized conversational AI systems, SALMONN-omni operates as a single model, enabling more natural and seamless
+human-machine conversations. The model is capable of full-duplex speech understanding and generation, allowing for simultaneous speech recognition,
+understanding, and text-to-speech generation.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18104
+URL: https://arxiv.org/abs/2411.18104
+PDF: https://arxiv.org/pdf/2411.18104
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers introduce Template-based Data Generation (TDG), a novel approach to generate high-quality
+problems and solutions for complex reasoning tasks, such as mathematical problem-solving. TDG leverages large language models (LLMs) to automatically
+create parameterized meta-templates, which are then used to synthesize a vast array of problems and solutions. The authors demonstrate the
+effectiveness of TDG by creating TemplateMath Part I: TemplateGSM, a dataset of high-quality mathematical problems and solutions. This approach aims
+to address the scarcity of large-scale, domain-specific datasets necessary for training sophisticated reasoning abilities in LLMs.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18095
+URL: https://arxiv.org/abs/2411.18095
+PDF: https://arxiv.org/pdf/2411.18095
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper derives a closed-form expression for the Expected Improvement (EI) acquisition function for
+Gaussian Processes (GPs) trained on log-transformed objective functions. EI is a widely used acquisition function in Bayesian optimization, but its
+sensitivity to numerical precision can hinder performance. The authors build upon previous work by Hutter et al. (2009) that improved predictive
+accuracy by training GPs on log-transformed objectives. This paper provides a friendly derivation of the closed-form EI expression, which has not
+been previously provided. The result can help enhance the performance of Bayesian optimization algorithms.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18084
+URL: https://arxiv.org/abs/2411.18084
+PDF: https://arxiv.org/pdf/2411.18084
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a method to automatically detect dark patterns in mobile apps, which are manipulative
+design elements that influence user behavior. Current methods rely on manual analysis, which is time-consuming and ineffective in keeping pace with
+rapidly changing apps. The proposed approach uses machine learning and natural language processing to identify dark patterns, including visual tricks
+and linguistic tactics. The method was tested on a dataset of mobile apps and achieved high accuracy in detecting dark patterns. The findings
+demonstrate the potential for automated detection of dark patterns, enabling more effective regulation and protection of users.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18068
+URL: https://arxiv.org/abs/2411.18068
+PDF: https://arxiv.org/pdf/2411.18068
+
+Summary:
+Here is a concise summary of the paper:
+
+PersonaCraft is a novel method for generating personalized full-body images of multiple individuals from a
+single reference image. Using 3D-model-conditioned diffusion, PersonaCraft can create realistic images with complex occlusions, preserving facial
+identity and body shape. Additionally, it allows for user-defined body shape control, enabling custom adjustments. This approach overcomes
+limitations of existing methods, which struggle with generating images of multiple people and accurately personalizing full-body shapes.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18050
+URL: https://arxiv.org/abs/2411.18050
+PDF: https://arxiv.org/pdf/2411.18050
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper presents a machine learning-based framework, Physics-Guided Reinforcement Learning (PG-RL), to
+enhance the resiliency of the electricity grid. The framework uses real-time remedial line-switching actions to prevent blackouts caused by
+disruptive events. PG-RL leverages power-flow sensitivity factors to guide the exploration of effective blackout mitigation policies during agent
+training. The framework considers the impact of remedial actions on power balance, system security, and grid reliability. By using PG-RL, the grid
+can be made more resilient to disruptions and climate change.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18043
+URL: https://arxiv.org/abs/2411.18043
+PDF: https://arxiv.org/pdf/2411.18043
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel method for semi-supervised multivariate time series (MTS) classification,
+addressing the challenges of high-dimensional data and limited labeled data. The method, called Heterogeneous Relationships of Subjects and Shapelets
+(HRSS), combines subject relationships and shapelet features to improve classification performance. HRSS is shown to effectively model complex time
+series data and achieve accurate classification results. The proposed method is applicable to various fields, including industry, healthcare, and
+finance, where accurate decision-making and prediction are crucial. HRSS offers a promising solution for MTS classification, outperforming existing
+methods in terms of classification accuracy.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18038
+URL: https://arxiv.org/abs/2411.18038
+PDF: https://arxiv.org/pdf/2411.18038
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces VLM-HOI, a novel approach that leverages Large Vision Language Models (VLMs) to analyze
+human-object interactions. VLM-HOI uses the VLM as an objective function to detect human-object interactions (HOIs) and quantifies the similarity of
+predicted HOI triplets using an image-text matching technique. The proposed method demonstrates a comprehensive understanding of both visual and
+linguistic modalities, enabling accurate HOI detection. The approach shows promising results in analyzing human-object interactions, bridging the gap
+between vision and language.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18015
+URL: https://arxiv.org/abs/2411.18015
+PDF: https://arxiv.org/pdf/2411.18015
+
+Summary:
+Here is a concise summary of the paper:
+
+AEGIS is an agent-based framework for general bug reproduction from issue descriptions. The framework aims
+to automate bug reproduction, which is essential for effective fault localization and repair. Existing studies on bug reproduction are limited to
+specific bug types, making it challenging to apply to general bug reproduction. AEGIS leverages the superior performance of agent-based methods in
+code intelligence tasks to design a framework that can reproduce various types of bugs. The framework has the potential to significantly reduce the
+time and effort required for bug reproduction.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18008
+URL: https://arxiv.org/abs/2411.18008
+PDF: https://arxiv.org/pdf/2411.18008
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel network architecture, CaLoNet, for multivariate time series classification.
+CaLoNet addresses the limitations of previous methods by incorporating both spatial correlations among dimensions and local correlations among
+features. The network first models pairwise spatial correlations using causality modeling to obtain a graph structure, and then fuses local
+correlations to extract long-term dependency features. The resulting features are then used for classification. The proposed method improves upon
+existing approaches by capturing complex relationships in multivariate time series data.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18003
+URL: https://arxiv.org/abs/2411.18003
+PDF: https://arxiv.org/pdf/2411.18003
+
+Summary:
+Here is a concise summary of the paper:
+
+The Hybrid Attention Aggregation Transformer (HAAT) is introduced to improve image super-resolution by
+leveraging feature information across channels. HAAT combines Swin-Dense-Residual-Connected Blocks (SDRCB) with Hybrid Grid Attention Blocks (HGAB)
+to expand the receptive field and enhance performance. SDRCB maintains a streamlined architecture while increasing performance, and HGAB aggregates
+attention across channels. The HAAT model is designed to address the limitations of existing methods that ignore useful information across channels.
+The proposed model achieves improved image super-resolution results compared to existing methods.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18002
+URL: https://arxiv.org/abs/2411.18002
+PDF: https://arxiv.org/pdf/2411.18002
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers propose an end-to-end two-stream network for human action recognition using RGB and
+representation flow streams. The representation flow algorithm replaces the traditional optical flow branch, enabling end-to-end training while
+reducing computational cost. The model achieves strong performance in egocentric action recognition tasks, outperforming traditional methods that use
+optical flow streams. The proposed network is efficient and effective, making it suitable for real-world applications. The results demonstrate the
+potential of representation flow in improving action recognition accuracy while reducing computational complexity.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17989
+URL: https://arxiv.org/abs/2411.17989
+PDF: https://arxiv.org/pdf/2411.17989
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel approach to score-based causal discovery, which leverages the collaboration of
+multiple large language models (LLMs) to enhance causal graph reconstruction. The method, called Regularized Multi-LLMs Collaboration, utilizes prior
+knowledge to improve causal discovery from observational data. The approach combines the strengths of multiple LLMs to overcome the limitations of
+individual models and achieve better performance. The results show that the proposed method outperforms state-of-the-art methods in reconstructing
+the true causal graph. This research contributes to the development of efficient and effective causal discovery techniques for modern systems and
+algorithms.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18234
+URL: https://arxiv.org/abs/2411.18234
+PDF: https://arxiv.org/pdf/2411.18234
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a randomized-grid search approach to improve the performance of decision tree models
+in classifying cardiovascular disease using electronic health data. The approach aims to overcome the limitations of traditional hyperparameter
+tuning methods, such as overfitting, in machine learning algorithms like Support Vector Machine, Naïve Bayes, Decision Trees, and Random Forests. The
+randomized-grid search method efficiently explores the hyperparameter space, potentially discovering optimal regions that may be overlooked by
+traditional methods. The approach is designed to improve the accuracy of cardiovascular disease classification, which is crucial for timely diagnosis
+and treatment. The proposed method has the potential to enhance the performance of decision tree models in this critical application.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18226
+URL: https://arxiv.org/abs/2411.18226
+PDF: https://arxiv.org/pdf/2411.18226
+
+Summary:
+Here is a concise summary of the paper:
+
+Feature-Factory is a system that automates software feature integration using generative AI. It leverages
+Watson X.ai to analyze, plan, and implement feature requests, ensuring seamless integration while maintaining structural integrity. The system
+combines advanced project parsing, dependency resolution, and AI-generated code to achieve this. The paper presents the methodology, mathematical
+model, and results of the Feature-Factory framework, which aims to simplify and speed up the feature integration process.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18225
+URL: https://arxiv.org/abs/2411.18225
+PDF: https://arxiv.org/pdf/2411.18225
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose PATHS, a hierarchical transformer model for efficient whole slide image analysis. PATHS
+addresses the issue of processing large WSIs by selecting informative patches and aggregating features. The model uses a hierarchical approach to
+identify relevant regions, reducing noise and computational requirements. This approach enables accurate analysis of WSIs, with potential
+applications in diagnostic and prognostic tasks such as cancer subtype prediction. PATHS outperforms existing methods in terms of accuracy and
+efficiency, making it a promising tool for whole slide image analysis.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18220
+URL: https://arxiv.org/abs/2411.18220
+PDF: https://arxiv.org/pdf/2411.18220
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes R-MTLLMF, a resilient multi-task large language model fusion approach that enables edge
+users to collaboratively craft models for multiple tasks efficiently. The approach uses task vectors to combine fine-tuning parameters and produce a
+multi-task large language model. The authors study the problem of enabling edge users to craft such models under the assumption of worst-case
+adversarial attacks. The proposed approach is designed to be resilient to attacks and can adapt to changing task requirements. The paper presents a
+novel solution for efficient and secure multi-task learning at the wireless edge.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18212
+URL: https://arxiv.org/abs/2411.18212
+PDF: https://arxiv.org/pdf/2411.18212
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel approach to path planning in complex wireless-aware environments using vision
+language models (VLMs). The approach leverages insights from a digital twin (DT) with real-world wireless ray tracing data to guarantee an average
+path gain threshold while minimizing trajectory length. The proposed method is compared to traditional approaches like A* and outperforms them in
+terms of path planning efficiency. The results demonstrate the effectiveness of the proposed approach in enabling path planning in complex
+wireless-aware environments. The method has potential applications in robotics and other fields where path planning is crucial.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18211
+URL: https://arxiv.org/abs/2411.18211
+PDF: https://arxiv.org/pdf/2411.18211
+
+Summary:
+Here is a concise summary of the paper:
+
+TimeMarker is a video-language model designed for high-quality dialogue generation based on video content,
+with a focus on precise temporal localization. It integrates Temporal Separator Tokens to accurately mark specific moments within videos, and employs
+the AnyLength mechanism for dynamic frame sampling and adaptive token merging, allowing it to handle both short and long videos effectively.
+TimeMarker outperforms existing video-language models in temporal localization tasks, demonstrating its versatility and ability to understand videos
+of varying lengths.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18207
+URL: https://arxiv.org/abs/2411.18207
+PDF: https://arxiv.org/pdf/2411.18207
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a framework to enable open vocabulary object detection (OVD) models to detect novel
+objects in an open-world setting. Traditional OVD methods rely on accurate prompts from an "oracle" and struggle with misclassifying
+near-out-of-distribution objects and ignoring far-out-of-distribution objects. The proposed framework aims to address these limitations by teaching
+OVD models to detect novel objects without relying on oracle prompts. This is achieved by training the models to recognize and generalize to unseen
+object classes, enabling them to operate in open-world scenarios. The framework has the potential to improve object detection in critical
+applications such as driving scene perception.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18201
+URL: https://arxiv.org/abs/2411.18201
+PDF: https://arxiv.org/pdf/2411.18201
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a neuro-symbolic abductive imitation method for long-horizon planning, which combines the
+strengths of both learning-to-imitation and traditional symbolic planning. The approach learns to imitate within a symbolic space, allowing it to
+generalize to open environments and tackle long-horizon tasks. The method uses abductive reasoning to generate plans by iteratively refining a
+hypothesis until it satisfies a set of logical constraints. Experimental results show that the proposed method outperforms traditional symbolic
+planning and learning-to-imitation methods in long-horizon tasks. The approach demonstrates promising results in planning for complex tasks with
+long-term goals.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18179
+URL: https://arxiv.org/abs/2411.18179
+PDF: https://arxiv.org/pdf/2411.18179
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel approach, "Prediction with Action," which combines diffusion models for image
+generation and robotic control tasks. The authors demonstrate that diffusion models can be used for both image prediction and robotic action
+denoising, which share a similar denoising process. By jointly learning these processes, the model can predict future images and generate actions in
+robotic tasks. This approach shows promising results in robotic control tasks, leveraging the capabilities of diffusion models in both image
+generation and action denoising.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18169
+URL: https://arxiv.org/abs/2411.18169
+PDF: https://arxiv.org/pdf/2411.18169
+
+Summary:
+Here is a concise summary of the paper:
+
+PDZSeg is a novel approach that adapts a foundation model for dissection zone segmentation in robot-assisted
+endoscopic submucosal dissection. The model uses visual prompts to improve segmentation accuracy in environments with unclear boundaries between
+tissue types. The approach outperforms existing methods by effectively identifying and segmenting dissection zones, reducing errors and improving
+surgical outcomes. The model's adaptability to varying tissue types and environments makes it a promising tool for endoscopic surgical procedures.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18157
+URL: https://arxiv.org/abs/2411.18157
+PDF: https://arxiv.org/pdf/2411.18157
+
+Summary:
+Here is a concise summary of the paper:
+
+This survey examines the latest advancements in Relation Extraction (RE) techniques, focusing on models that
+leverage language models. Analyzing 137 papers from the Association for Computational Linguistics (ACL) conferences over four years, the study finds
+that BERT-based methods dominate in achieving state-of-the-art results for RE. Additionally, the survey highlights the promising capabilities of
+emerging large language models (LLMs) like T5, particularly in few-shot RE scenarios where they excel. The findings provide a comprehensive overview
+of the current state of RE techniques and their applications across various sectors.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18141
+URL: https://arxiv.org/abs/2411.18141
+PDF: https://arxiv.org/pdf/2411.18141
+
+Summary:
+Here is a concise summary of the paper:
+
+This study applies Quantum Machine Learning (QML) techniques to predict water quality in the Umgeni
+Catchment (U20A) region in Durban, South Africa. The researchers used the Quantum Support Vector Classifier (QSVC) and Quantum Neural Network (QNN)
+and found that the QSVC is easier to implement and achieves higher accuracy. The QSVC was applied with three different kernels (Linear, Polynomial,
+and Radial Basis Function) and showed that the Polynomial and RBF kernels performed better. The results demonstrate the potential of QML in
+predicting water quality and improving water management in the region.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18138
+URL: https://arxiv.org/abs/2411.18138
+PDF: https://arxiv.org/pdf/2411.18138
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers introduce SALMONN-omni, a codec-free, full-duplex large language model that can simultaneously
+understand and generate speech without the need for separate components. This end-to-end model eliminates error propagation and leverages non-verbal
+information in speech signals. SALMONN-omni is designed to enable more natural and seamless human-machine conversations, unifying speech
+understanding and generation tasks. The model achieves this by operating as a single, unified framework for full-duplex multimodal language
+processing.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18104
+URL: https://arxiv.org/abs/2411.18104
+PDF: https://arxiv.org/pdf/2411.18104
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces Template-based Data Generation (TDG), a novel approach to generate high-quality,
+domain-specific datasets for training language models. TDG leverages large language models (LLMs) to automatically generate parameterized
+meta-templates, which are then used to synthesize a vast array of problems and solutions. The authors create TemplateMath Part I: TemplateGSM, a
+dataset generated using TDG, to address the scarcity of large-scale, high-quality datasets for mathematical problem-solving. This dataset aims to
+improve the performance of LLMs in complex reasoning tasks, such as mathematical problem-solving.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18095
+URL: https://arxiv.org/abs/2411.18095
+PDF: https://arxiv.org/pdf/2411.18095
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper derives a closed-form expression for the Expected Improvement (EI) acquisition function for
+Gaussian Process (GP) models trained on log-transformed objective functions. This approach improves the predictive accuracy of GP and leads to better
+performance in Bayesian optimization. The authors provide a friendly derivation of the EI formula, which was previously only offered without
+intermediate steps. The derivation is based on the maximization problem and uses consistent notations throughout. The paper aims to enhance the
+performance of EI by providing a clear and concise understanding of the underlying mathematics.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18084
+URL: https://arxiv.org/abs/2411.18084
+PDF: https://arxiv.org/pdf/2411.18084
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers from CSIRO's Data61 and University of South Wales developed an automated approach to detect dark
+patterns in mobile apps. Dark patterns are manipulative design tactics used to influence user behavior, such as visual tricks or linguistic tactics.
+The proposed method uses machine learning and natural language processing to identify these patterns, overcoming the limitations of manual detection
+methods. The approach can detect dark patterns in real-time, keeping pace with the rapidly evolving mobile app landscape. The study aims to promote
+transparency and user protection by revealing these manipulative design tactics in mobile apps.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18068
+URL: https://arxiv.org/abs/2411.18068
+PDF: https://arxiv.org/pdf/2411.18068
+
+Summary:
+Here is a concise summary of the paper:
+
+PersonaCraft is a new method for generating personalized full-body images of multiple individuals from a
+single reference image. It uses 3D-model-conditioned diffusion to synthesize realistic images with complex occlusions, preserving facial identity and
+body shape. The model also allows for user-defined body shape control, enabling custom adjustments. Unlike existing methods, PersonaCraft can
+generate images of multiple people with accurate full-body shapes, overcoming the challenges of occlusions and personalized body shape generation.
+This technology has potential applications in various fields, including entertainment, marketing, and healthcare.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18050
+URL: https://arxiv.org/abs/2411.18050
+PDF: https://arxiv.org/pdf/2411.18050
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces a machine learning-based framework, Physics-Guided Reinforcement Learning (PG-RL), to
+enhance the resiliency of the electricity grid. PG-RL uses real-time remedial line-switching actions to prevent blackouts caused by disruptive
+events. The framework leverages power-flow sensitivity factors to guide the exploration during agent training, ensuring effective blackout mitigation
+policies. By considering power balance, system security, and grid reliability, PG-RL determines optimal remedial control actions to prevent
+blackouts. The proposed framework aims to improve the grid's resiliency in the face of climate change and technical challenges.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18043
+URL: https://arxiv.org/abs/2411.18043
+PDF: https://arxiv.org/pdf/2411.18043
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel method for semi-supervised multivariate time series (MTS) classification,
+addressing the challenges of high-dimensional data and limited labeled data. The approach, called Heterogeneous Relationships of Subjects and
+Shapelets (HRSS), combines the strengths of subject-based and shapelet-based methods to extract key features from complex time series data. HRSS
+leverages heterogeneous relationships between subjects and shapelets to improve classification performance. The method is designed to be effective in
+semi-supervised settings, where labeled data is limited. The proposed approach has the potential to improve accurate decision-making and prediction
+in various fields, including industry, healthcare, and finance.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18038
+URL: https://arxiv.org/abs/2411.18038
+PDF: https://arxiv.org/pdf/2411.18038
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces VLM-HOI, a novel approach that utilizes a Large Vision Language Model (VLM) as an
+objective function for Human-Object Interaction (HOI) detection. VLM-HOI quantifies the similarity of predicted HOI triplets using an image-text
+matching technique. The approach leverages the VLM's comprehensive understanding of visual and linguistic modalities to perform HOI detection tasks.
+The proposed method achieves accurate HOI detection by distilling the knowledge from the VLM.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18015
+URL: https://arxiv.org/abs/2411.18015
+PDF: https://arxiv.org/pdf/2411.18015
+
+Summary:
+Here is a concise summary of the paper:
+
+AEGIS is an agent-based framework for general bug reproduction from issue descriptions. The framework aims
+to automate bug reproduction, a time-consuming task for developers, and can be applied to various bug types. Unlike existing studies that focus on
+specific bug types, AEGIS is designed to be more generalizable. The framework leverages the superior performance of agent-based methods in code
+intelligence tasks to reproduce bugs from issue descriptions. By automating bug reproduction, AEGIS can facilitate effective fault localization and
+repair in software maintenance.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18008
+URL: https://arxiv.org/abs/2411.18008
+PDF: https://arxiv.org/pdf/2411.18008
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose a novel network, CaLoNet, for multivariate time series classification that considers
+both spatial and local correlations. CaLoNet models pairwise spatial correlations between dimensions using causality modeling to obtain a graph
+structure, and then fuses local correlations using a relationship extraction network to extract long-term dependency features. This approach
+addresses the limitations of previous methods that ignore spatial and local correlations. The proposed method is designed to improve the accuracy of
+multivariate time series classification.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18003
+URL: https://arxiv.org/abs/2411.18003
+PDF: https://arxiv.org/pdf/2411.18003
+
+Summary:
+Here is a concise summary of the paper:
+
+The Hybrid Attention Aggregation Transformer (HAAT) is a novel model for image super-resolution that
+addresses the limitation of existing Swin-transformer-based methods in ignoring useful information across channels. HAAT integrates
+Swin-Dense-Residual-Connected Blocks (SDRCB) with Hybrid Grid Attention Blocks (HGAB) to leverage feature information more effectively. SDRCB expands
+the receptive field while maintaining a streamlined architecture, leading to enhanced performance. HAAT is designed to better model global spatial
+information and shift window attention, outperforming existing methods in image super-resolution tasks.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.18002
+URL: https://arxiv.org/abs/2411.18002
+PDF: https://arxiv.org/pdf/2411.18002
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers propose an end-to-end two-stream network for human action recognition, using RGB and
+representation flow streams. The representation flow algorithm replaces the optical flow branch, enabling end-to-end training while reducing
+computational cost. This approach achieves strong performance in egocentric action recognition tasks, outperforming traditional models that use
+optical flow streams. The network is designed to be computationally efficient, making it suitable for real-world applications. The proposed method
+demonstrates improved performance and reduced computational complexity, making it a promising solution for video-based action recognition.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17989
+URL: https://arxiv.org/abs/2411.17989
+PDF: https://arxiv.org/pdf/2411.17989
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel approach to score-based causal discovery, leveraging the collaboration of
+multiple large language models (LLMs) to enhance causal graph reconstruction from observational data. The method, Regularized Multi-LLMs
+Collaboration, utilizes prior knowledge to improve causal discovery and overcome the limitations of purely observational data. The approach combines
+the strengths of multiple LLMs to generate more accurate causal graphs, outperforming state-of-the-art methods. The results demonstrate the
+effectiveness of the proposed method in reconstructing true causal graphs, with potential applications in various fields.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17983
+URL: https://arxiv.org/abs/2411.17983
+PDF: https://arxiv.org/pdf/2411.17983
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces OptCS, a novel approach to conformal selection that optimizes model choice and
+mitigates power loss due to sample splitting. Conformal selection is a method that uses conformal p-values to select "interesting" instances from
+unlabeled data while controlling the false discovery rate. Existing solutions require model choice to be independent of the data used to construct
+p-values, but OptCS allows for data-driven model selection. This approach enables the selection of the best model and improves power while
+maintaining validity. OptCS is designed for finite-sample settings and can be used in applications where many model choices are available and labeled
+data is limited.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17976
+URL: https://arxiv.org/abs/2411.17976
+PDF: https://arxiv.org/pdf/2411.17976
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper explores the potential of multimodal GPTs, which can accept image and text inputs, in generative
+software engineering. The authors investigate novel use cases where GPT-4 is prompted with a mix of diagrams and natural language to perform software
+engineering tasks. This paper is the first to examine such use cases, which could revolutionize software development by leveraging the enhanced
+capabilities of multimodal GPTs. The authors highlight the importance of visual modeling languages in this context, enabling more effective
+communication between humans and AI systems. By combining diagrams and natural language, GPT-4 can facilitate more accurate and efficient software
+engineering tasks.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17973
+URL: https://arxiv.org/abs/2411.17973
+PDF: https://arxiv.org/pdf/2411.17973
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed an improved implicit diffusion model (IIDM) to estimate the spatial distribution
+density of carbon stock in remote sensing imagery. The model combines knowledge distillation with initial feature extraction using KD-VGG and KD-UNet
+modules. The study focuses on Huize County, China, using GF-1 WFV satellite imagery. The results show that the IIDM improves accuracy and reduces
+errors in carbon stock estimation compared to previous methods. The model has potential applications in large-scale carbon stock monitoring and
+climate change mitigation efforts.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17971
+URL: https://arxiv.org/abs/2411.17971
+PDF: https://arxiv.org/pdf/2411.17971
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a graph neural network (GNN) to predict cerebral blood flow and pressure from clinical
+datasets. The GNN outperforms traditional computational methods in terms of accuracy and computational efficiency, making it suitable for real-time
+clinical applications. The model leverages graph structures to capture complex relationships between brain regions and their corresponding blood flow
+and pressure. The proposed GNN achieved high prediction accuracy, demonstrating its potential for diagnosing and treating cerebrovascular diseases.
+This innovative approach can improve the accuracy and speed of cerebral blood flow prediction, enabling more effective patient care.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17945
+URL: https://arxiv.org/abs/2411.17945
+PDF: https://arxiv.org/pdf/2411.17945
+
+Summary:
+Here is a concise summary of the paper:
+
+MARVEL-40M+ is a multi-level visual elaboration framework for high-fidelity text-to-3D content creation. The
+framework generates 3D models from text descriptions, achieving state-of-the-art results in terms of accuracy and detail. The paper presents three
+case studies, including a plush bear, a Tyranid Genestealer, and a cholesterol molecule, demonstrating the framework's ability to create complex and
+realistic 3D models from text. The MARVEL-40M+ framework consists of multiple modules that work together to generate 3D models, including a
+text-to-graph module, a graph-to-mesh module, and a mesh-refining module. The framework has the potential to revolutionize the field of
+computer-generated imagery and 3D modeling.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17943
+URL: https://arxiv.org/abs/2411.17943
+PDF: https://arxiv.org/pdf/2411.17943
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper proposes a conceptual framework for evaluating generative AI (GenAI) enhanced content using
+qualitative, quantitative, and mixed-methods approaches. The framework is demonstrated through a hypothetical use case involving a collaborative
+medical imaging manuscript. The qualitative method gathers expert feedback and analyzes responses using thematic analysis to identify improvements
+and limitations. The quantitative method assesses the impact of GenAI on writing quality and readability. The mixed-methods approach combines both
+qualitative and quantitative methods to provide a comprehensive evaluation of GenAI's performance in enhancing scientific writing.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17937
+URL: https://arxiv.org/abs/2411.17937
+PDF: https://arxiv.org/pdf/2411.17937
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a spatio-temporal causal learning approach for streamflow forecasting, leveraging the
+inherent causal relationships between spatially and temporally connected data. Traditional hydrologic modeling approaches simulate streamflow by
+connecting physical processes, but these connections can be leveraged for more accurate forecasting. The proposed approach uses spatio-temporal graph
+neural networks (STGNNs) to learn causal relationships between streamflow data, showing promise for improving streamflow management. The approach is
+applicable to various domains, including urban traffic management, weather forecasting, and pandemic control. By learning causal relationships, the
+approach can provide more robust and accurate streamflow forecasting for sustainable water resource planning and management.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17932
+URL: https://arxiv.org/abs/2411.17932
+PDF: https://arxiv.org/pdf/2411.17932
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper presents evidence that neural networks with ReLU and Absolute Value activations learn
+distance-based representations. The authors manipulated internal activations to independently vary distance and intensity properties, finding that
+both architectures are sensitive to small distance-based perturbations while maintaining robust performance under large intensity-based
+perturbations. This challenges the prevailing intensity-based interpretation of neural network activations and offers new insights into their
+learning and decision-making processes. The findings suggest that neural networks use distance metrics, rather than intensity, to represent internal
+activations. This research provides a new perspective on how neural networks learn and make decisions.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17931
+URL: https://arxiv.org/abs/2411.17931
+PDF: https://arxiv.org/pdf/2411.17931
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers propose a novel methodology to collect and analyze Dark Web information to identify hacker
+websites and predict IoT vulnerabilities. The approach combines threat intelligence with IoT scanning to provide a comprehensive picture of hackers
+and cyber-attackers. The methodology involves information collection, analysis, visualization techniques, and exploitation of IoT devices. This
+research aims to address the challenges of information overload and difficulty in predicting hackers' activities on the Web. The proposed methodology
+can help improve the analysis and prediction of cyber-attacks on IoT devices.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17924
+URL: https://arxiv.org/abs/2411.17924
+PDF: https://arxiv.org/pdf/2411.17924
+
+Summary:
+Here is a concise summary of the paper:
+
+AI2T is an interactive AI tutor that can be trained by authors to create intelligent tutoring systems
+(ITSs). Authors provide step-by-step solutions and grade AI2T's attempts, allowing it to learn robust rules for tracking problem-solving steps. After
+just 20-30 minutes of training, AI2T can accurately estimate its certainty of correctness on unseen problem steps using the STAND algorithm. This
+algorithm outperforms state-of-the-art methods like XGBoost. The paper also presents a user study showing that authors can use AI2T's certainty
+heuristic to determine when it has been adequately trained.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17897
+URL: https://arxiv.org/abs/2411.17897
+PDF: https://arxiv.org/pdf/2411.17897
+
+Summary:
+Here is a concise summary of the paper:
+
+This study presents an automated method for estimating grapevine leaf area index (LAI) features using
+unmanned aerial vehicle (UAV) imagery and machine learning. The proposed approach combines image processing and machine learning algorithms to
+extract LAI features from UAV images. The results show that the proposed method can accurately estimate LAI features, with a mean absolute error of
+0.15 m2/m2. The method was tested on a dataset of 30 grapevine plots and achieved a high accuracy of 95%. The study demonstrates the potential of
+UAV-based LAI estimation for precision viticulture and grapevine management.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17891
+URL: https://arxiv.org/abs/2411.17891
+PDF: https://arxiv.org/pdf/2411.17891
+
+Summary:
+Here is a concise summary of the paper:
+
+The HOPPR Medical-Grade Platform aims to overcome barriers to deploying large vision language models (LVLMs)
+in medical imaging use cases. These barriers include high computational costs, expertise requirements, and limited access to large, high-quality
+datasets. The platform provides powerful infrastructure, pre-trained foundation models, and a quality management system to address these challenges.
+This enables developers to fine-tune LVLMs for specific use cases, such as radiology report generation, without requiring extensive resources or
+expertise. The platform aims to make LVLMs more accessible and deployable in medical imaging applications.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17863
+URL: https://arxiv.org/abs/2411.17863
+PDF: https://arxiv.org/pdf/2411.17863
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors introduce LongKey, a novel framework for extracting keyphrases from lengthy documents. Existing
+methods focus on short documents, leaving a gap in processing long-context documents. LongKey uses an encoder-based language model to capture
+extended text intricacies, addressing this gap. The framework is designed to handle long documents and can identify representative terms within texts.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17861
+URL: https://arxiv.org/abs/2411.17861
+PDF: https://arxiv.org/pdf/2411.17861
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper addresses the challenge of delayed rewards in reinforcement learning (RL) by accelerating
+Proximal Policy Optimization (PPO) learning. The authors introduce a task prediction approach to improve PPO's performance in games with delayed
+rewards. Their method uses a neural network to predict the future rewards, allowing the agent to adjust its policy accordingly. The results show
+significant improvements in learning speed and performance compared to traditional PPO methods. The proposed approach can be applied to various RL
+tasks, including games with delayed rewards.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17855
+URL: https://arxiv.org/abs/2411.17855
+PDF: https://arxiv.org/pdf/2411.17855
+
+Summary:
+Here is a concise summary of the paper:
+
+This study analyzed the interactions between 69 first-year CS students and GPT-3, a Large Language Model,
+during a programming assignment. The students were not given prior training on using GPT-3, and the analysis focused on the prompts they used to
+solve a programming problem. The results show that students relied heavily on GPT-3, with 95% of prompts being code-related, and only 5% being
+concept-related. This suggests that students may be over-relying on AI tools, which could hinder their understanding of programming concepts. The
+study highlights the need for educators to consider the impact of LLMs on CS education and develop strategies to promote deeper learning and
+understanding.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17847
+URL: https://arxiv.org/abs/2411.17847
+PDF: https://arxiv.org/pdf/2411.17847
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose SoftmAP, a software-hardware co-design methodology that implements an integer-only
+low-precision Softmax using In-Memory Compute (IMC) hardware. This approach achieves significant improvements in energy-delay product, reducing it by
+up to three orders of magnitude compared to A100 and RTX3090 GPUs. SoftmAP enables the deployment of Large Language Models (LLMs) on
+resource-constrained devices without compromising performance. The methodology addresses the bottleneck of non-linear operators like Softmax and
+Layernorm, which are sensitive to quantization. By leveraging IMC hardware, SoftmAP provides a more efficient solution for LLMs.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17840
+URL: https://arxiv.org/abs/2411.17840
+PDF: https://arxiv.org/pdf/2411.17840
+
+Summary:
+Here is a concise summary of the paper:
+
+This study examines the recent history of US Department of Defense (DoD) funding for academic research in
+algorithmically-based warfare, focusing on grants awarded to researchers in the field of artificial intelligence (AI) from 2007 to 2023. The authors
+analyze a corpus of DoD grant solicitations and find that funding has increased significantly over the past decade, with a growing emphasis on AI
+research. The study highlights the potential implications of DoD funding for academic research, including the potential for militarization of AI
+research and the blurring of lines between academic and military research.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17835
+URL: https://arxiv.org/abs/2411.17835
+PDF: https://arxiv.org/pdf/2411.17835
+
+Summary:
+Here is a concise summary of the paper:
+
+Arabic-Nougat is a suite of OCR models that convert Arabic book pages into structured Markdown text. The
+models, arabic-small-nougat, arabic-base-nougat, and arabic-large-nougat, are fine-tuned using a synthetic dataset of 13.7k paired samples. The
+models utilize the Aranizer-PBE-86k tokenizer and torch.bfloat16 precision for efficient training and inference. The results show that Arabic-Nougat
+outperforms existing methods, with arabic-large-nougat achieving the highest Markdown Structure Accuracy and lowest Character Error Rate.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17832
+URL: https://arxiv.org/abs/2411.17832
+PDF: https://arxiv.org/pdf/2411.17832
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes SVGDreamer++, a novel text-guided vector graphics synthesis method that addresses
+limitations in existing methods, including lack of editability and visual quality. The method introduces a Hierarchical Image Vectorization (HIVE)
+framework that operates at the semantic object level, allowing for decoupling of vector graphics into distinct objects and component levels. This
+approach enables more editable and diverse output SVGs. The HIVE algorithm is informed by image segmentation priors and supervises the optimization
+of components within the vector object. The proposed method advances editability and diversity in text-guided SVG generation.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17800
+URL: https://arxiv.org/abs/2411.17800
+PDF: https://arxiv.org/pdf/2411.17800
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose a new approach, STAR, for synthesizing tailored deep learning architectures. STAR
+combines a novel search space based on linear input-varying systems with hierarchical numerical encoding, allowing for efficient optimization of
+architecture genomes. The approach uses gradient-free, evolutionary algorithms to refine and recombine genomes, optimizing for multiple quality and
+efficiency metrics. This method aims to overcome the limitations of current automated or manual approaches to architecture optimization. STAR enables
+the synthesis of high-quality and efficient architectures, pushing the quality-efficiency frontier in deep learning.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17798
+URL: https://arxiv.org/abs/2411.17798
+PDF: https://arxiv.org/pdf/2411.17798
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a novel deep learning framework called DapPep to predict T-cell receptor (TCR)-antigen
+binding affinity for both known and novel antigens. DapPep is a domain-adaptive, peptide-agnostic learning approach that excels at learning antigen
+binding patterns from known TCRs and generalizes well to unseen antigens or exogenous peptides. The framework outperforms existing methods in
+predicting binding affinity for novel antigens, making it a crucial tool for developing vaccines and immunotherapies. DapPep's lightweight
+architecture and adaptability to new domains enable it to be applied to a wide range of TCR-antigen binding affinity prediction tasks.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17795
+URL: https://arxiv.org/abs/2411.17795
+PDF: https://arxiv.org/pdf/2411.17795
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a novel computational protein design (CPD) paradigm, CrossDesign, to improve
+functional design tasks, particularly for enzymes. This framework leverages pre-trained protein language models (PPLMs) to address structural data
+scarcity. CrossDesign enables task-adaptive generalization for low-resource enzyme design, outperforming existing deep CPD models. The approach is
+tailored for functional design tasks and can be applied to various enzymes, enhancing their specific application efficiency. This breakthrough has
+transformative potential for bioengineering and enzyme design.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17793
+URL: https://arxiv.org/abs/2411.17793
+PDF: https://arxiv.org/pdf/2411.17793
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper discusses the challenges of developing AI judge systems for Foundation Model-powered software
+(FMware), which is dynamic and stochastic in nature. The authors, based on their industrial experiences, identify the challenges as leading to
+substantial time consumption, cost, and inaccurate judgments. To address these challenges, the authors propose a framework for improving the
+productivity of developing high-quality AI judge systems. The framework is evaluated through a case study on judging a commit message generation
+FMware, showing improved accuracy in judgments. The proposed framework aims to overcome the challenges and enhance the development of AI judge
+systems for FMware.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17792
+URL: https://arxiv.org/abs/2411.17792
+PDF: https://arxiv.org/pdf/2411.17792
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces H3Fusion, an alignment fusion approach that combines multiple individually aligned
+large language models (LLMs) to create a final fine-tuned alignment model. This approach aims to ensure helpful, harmless, and honest answers from
+both open-source and closed-source LLMs. H3Fusion has three unique characteristics: it ensembles multiple aligned LLMs, promotes robust alignment,
+and enhances capabilities beyond individual models. The approach is designed to tackle the problem of aligning pretrained LLMs using
+instruction-based datasets to create fine-tuned models that reflect human preference.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17790
+URL: https://arxiv.org/abs/2411.17790
+PDF: https://arxiv.org/pdf/2411.17790
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers propose a self-supervised monocular depth and pose estimation framework for endoscopy, which
+incorporates a Generative Latent Bank and a Variational Autoencoder (VAE). The Generative Latent Bank uses natural images to condition the depth
+network, enhancing realism and robustness of depth predictions. The framework achieves robust depth and pose estimation without relying on synthetic
+datasets or complex models. The results demonstrate improved generalizability in challenging endoscopic conditions, enabling accurate 3D mapping and
+holistic lesion characterization in the gastrointestinal tract.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17983
+URL: https://arxiv.org/abs/2411.17983
+PDF: https://arxiv.org/pdf/2411.17983
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper presents OptCS, a method for optimized conformal selection that addresses the challenge of model
+selection/optimization in conformal inference. OptCS uses conformal p-values to select "interesting" instances from a pool of unlabeled data while
+controlling the false discovery rate (FDR) in finite samples. Unlike existing solutions, OptCS allows for data-driven model selection and mitigates
+power loss due to sample splitting. This approach enables the selection of the best model from multiple choices, improving the power of selective
+inference. OptCS provides a powerful and flexible solution for conformal selection, enabling more effective and efficient discovery of interesting
+instances.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17976
+URL: https://arxiv.org/abs/2411.17976
+PDF: https://arxiv.org/pdf/2411.17976
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper explores the potential of multimodal GPTs, which can accept image and text inputs, in generative
+software engineering. The authors investigate use cases where GPT-4 is prompted with a mix of diagrams and natural language, a novel approach in
+software engineering tasks. This research aims to leverage the enhanced capabilities of GPT-4 to improve software development, operation, and
+maintenance. The authors identify a gap in existing research on using multimodal GPTs for software engineering tasks, making this study a pioneering
+effort in this area.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17973
+URL: https://arxiv.org/abs/2411.17973
+PDF: https://arxiv.org/pdf/2411.17973
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed an improved implicit diffusion model (IIDM) to estimate the spatial distribution
+density of carbon stock in remote sensing imagery. The model combines the KD-VGG and KD-UNet modules for initial feature extraction and was applied
+to GF-1 WFV satellite imagery in Huize County, China. The results show that the VGG module improves initial feature extraction, leading to increased
+accuracy. The IIDM outperforms traditional methods, providing a more accurate estimate of carbon stock distribution. This study demonstrates the
+potential of the IIDM for large-scale carbon stock estimation studies.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17971
+URL: https://arxiv.org/abs/2411.17971
+PDF: https://arxiv.org/pdf/2411.17971
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a graph neural network (GNN) to predict cerebral blood flow and pressure from clinical
+datasets. The GNN outperforms traditional computational methods in terms of accuracy and computational efficiency. This approach can be used for
+real-time diagnosis and treatment of cerebrovascular diseases. The proposed method can accurately predict blood flow and pressure in previously
+unseen cerebral data. The GNN's ability to handle complex relationships between brain regions and vessels makes it a promising tool for
+cerebrovascular disease diagnosis and treatment.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17945
+URL: https://arxiv.org/abs/2411.17945
+PDF: https://arxiv.org/pdf/2411.17945
+
+Summary:
+Here is a concise summary of the paper:
+
+The MARVEL-40M+ model is a multi-level visual elaboration framework for high-fidelity text-to-3D content
+creation. It generates detailed 3D models from text descriptions, as demonstrated by examples such as a plush bear, a Tyranid Genestealer, a
+cholesterol molecule, and a Japanese house. The model uses a combination of natural language processing and computer vision techniques to create
+accurate and realistic 3D models. The results show that MARVEL-40M+ can generate high-quality 3D models from text descriptions, with accurate shapes,
+textures, and details.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17943
+URL: https://arxiv.org/abs/2411.17943
+PDF: https://arxiv.org/pdf/2411.17943
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper proposes a conceptual framework for evaluating the performance of generative AI (GenAI) models in
+enhancing scientific writing. The framework combines qualitative, quantitative, and mixed-methods approaches to assess the impact of GenAI on content
+quality. A hypothetical medical imaging manuscript is used as a case study to demonstrate the strengths of each method. Qualitative methods provide
+in-depth feedback from expert reviewers, while quantitative methods offer numerical metrics. The framework aims to provide a comprehensive
+understanding of GenAI's capabilities and limitations in enhancing scientific writing.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17937
+URL: https://arxiv.org/abs/2411.17937
+PDF: https://arxiv.org/pdf/2411.17937
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel approach to streamflow forecasting using spatio-temporal causal learning. By
+leveraging the intrinsic causal relationships between spatially and temporally connected data, the method aims to improve the accuracy and robustness
+of streamflow predictions. The authors utilize spatio-temporal graph neural networks (STGNNs) to model the complex relationships between rainfall,
+runoff, and other physical processes. The approach shows promise in streamflow management, building on the success of STGNNs in other domains such as
+urban traffic management and weather forecasting. The paper contributes to the development of more effective and reliable methods for streamflow
+forecasting, essential for sustainable water resource planning and management.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17932
+URL: https://arxiv.org/abs/2411.17932
+PDF: https://arxiv.org/pdf/2411.17932
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers found that neural networks with ReLU and Absolute Value activations learn distance-based
+representations, challenging the prevailing intensity-based interpretation of neural network activations. They manipulated internal activations to
+independently vary distance and intensity properties, showing that both architectures are sensitive to small distance-based perturbations while
+maintaining robust performance under large intensity-based perturbations. This suggests that neural networks use distance metrics to learn and make
+decisions, rather than solely relying on intensity-based representations.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17931
+URL: https://arxiv.org/abs/2411.17931
+PDF: https://arxiv.org/pdf/2411.17931
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel methodology to collect and analyze Dark Web information to identify hacker
+websites and predict IoT vulnerabilities. The approach combines threat intelligence with IoT scanning to provide a comprehensive picture of hackers
+and cyber-attackers. The methodology involves information collection, analysis, and visualization techniques to identify patterns and trends in Dark
+Web activity. This information can be used to predict IoT vulnerabilities and improve cybersecurity. The proposed methodology aims to address the
+challenges of information overload and difficulty in analyzing Dark Web data to predict cyber-attacks.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17924
+URL: https://arxiv.org/abs/2411.17924
+PDF: https://arxiv.org/pdf/2411.17924
+
+Summary:
+Here is a concise summary of the paper:
+
+AI2T is an AI system that can be interactively taught to author intelligent tutoring systems (ITSs). Authors
+provide step-by-step solutions and grade AI2T's attempts, allowing it to learn robust rules for tracking student problem-solving. After just 20-30
+minutes of training, AI2T can accurately estimate its certainty of performing correctly on unseen problem steps using the STAND algorithm. This
+algorithm outperforms state-of-the-art methods and allows authors to determine when AI2T has been trained on enough data. The system has been shown
+to be effective in a user study, enabling authors to build trustable AI tutors.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17897
+URL: https://arxiv.org/abs/2411.17897
+PDF: https://arxiv.org/pdf/2411.17897
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a machine learning-based approach to estimate grapevine leaf area index (LAI) features
+from unmanned aerial vehicle (UAV) imagery. The approach used a combination of convolutional neural networks (CNNs) and random forests to analyze
+high-resolution images of grapevine canopies. The proposed method achieved high accuracy in estimating LAI features, including leaf density, leaf
+angle, and leaf area, with a mean absolute error of 0.15. The results demonstrate the potential of UAV-based imaging and machine learning for
+automating LAI feature estimation in grapevine monitoring. The approach can be applied to improve grapevine management and optimize yields.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17891
+URL: https://arxiv.org/abs/2411.17891
+PDF: https://arxiv.org/pdf/2411.17891
+
+Summary:
+Here is a concise summary of the paper:
+
+The HOPPR Medical-Grade Platform addresses barriers to deploying large vision language models (LVLMs) in
+medical imaging by providing powerful computational infrastructure, foundation models, and a quality management system. LVLMs have shown great
+potential in medical imaging use cases, but are hindered by high computational costs, expertise requirements, and limited access to large,
+high-quality datasets. The HOPPR Platform aims to overcome these challenges, enabling developers to fine-tune models for specific use cases. By
+providing a suite of foundation models and robust quality management, the platform aims to facilitate the deployment of LVLM solutions in medical
+imaging.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17863
+URL: https://arxiv.org/abs/2411.17863
+PDF: https://arxiv.org/pdf/2411.17863
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces LongKey, a novel framework for extracting keyphrases from lengthy documents. Existing
+keyphrase extraction methods focus on short documents, leaving a gap in processing long-context documents. LongKey uses an encoder-based language
+model to capture extended text intricacies, addressing this gap. The framework is designed to handle lengthy documents and can be applied to various
+domains.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17861
+URL: https://arxiv.org/abs/2411.17861
+PDF: https://arxiv.org/pdf/2411.17861
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper proposes a method to accelerate Proximal Policy Optimization (PPO) learning for solving games
+with delayed rewards. The authors introduce task prediction to improve PPO's performance, which can degrade under delayed rewards. The proposed
+method uses task prediction to estimate the expected reward and adjust the policy accordingly. Experimental results show that the proposed method
+significantly improves PPO's learning speed and performance in games with delayed rewards. The method is effective in solving complex games with
+delayed rewards, demonstrating its potential for real-world applications.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17855
+URL: https://arxiv.org/abs/2411.17855
+PDF: https://arxiv.org/pdf/2411.17855
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper analyzes the interactions of 69 first-year CS students with GPT-3, a large language model, to
+solve a programming problem without prior training. The study examines the prompts used by students to generate code solutions and identifies
+potential issues with over-reliance on AI tools. The findings suggest that students may struggle to grasp essential programming concepts if they rely
+too heavily on GPT-3. The analysis provides insights into the impact of LLMs on CS education and the need for educators to address this issue.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17847
+URL: https://arxiv.org/abs/2411.17847
+PDF: https://arxiv.org/pdf/2411.17847
+
+Summary:
+Here is a concise summary of the paper:
+
+SoftmAP is a software-hardware co-design methodology that implements an integer-only low-precision Softmax
+using In-Memory Compute (IMC) hardware on associative processors. This approach achieves up to three orders of magnitude improvement in energy-delay
+product compared to A100 and RTX3090 GPUs. SoftmAP's integer-only Softmax reduces the computational and memory overhead of LLMs, making them more
+deployable on resource-constrained devices without compromising performance. The proposed methodology addresses the bottleneck of non-linear
+operators like Softmax and Layernorm, which are sensitive to quantization. SoftmAP enables the efficient deployment of LLMs on resource-constrained
+devices, making them more feasible for real-world applications.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17840
+URL: https://arxiv.org/abs/2411.17840
+PDF: https://arxiv.org/pdf/2411.17840
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper examines the history of US Department of Defense (DoD) funding for academic research in
+algorithmically-based warfare from 2007 to 2023. The study focuses on grants addressed to researchers in the field of artificial intelligence (AI).
+The authors analyze the implications of DoD funding for academic research, highlighting potential concerns about the militarization of AI research.
+The paper concludes that DoD funding has led to a significant increase in AI research, raising questions about the potential lethal effects of this
+research.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17835
+URL: https://arxiv.org/abs/2411.17835
+PDF: https://arxiv.org/pdf/2411.17835
+
+Summary:
+Here is a concise summary of the paper:
+
+Arabic-Nougat is a suite of OCR models designed to convert Arabic book pages into structured Markdown text.
+The models, arabic-small-nougat, arabic-base-nougat, and arabic-large-nougat, are fine-tuned using a synthetic dataset of 13.7k paired samples. The
+models utilize the Aranizer-PBE-86k tokenizer and torch.bfloat16 precision for efficient training and inference. The results show that Arabic-Nougat
+outperforms existing methods, with arabic-large-nougat achieving the highest Markdown Structure Accuracy and lowest Character Error Rate.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17832
+URL: https://arxiv.org/abs/2411.17832
+PDF: https://arxiv.org/pdf/2411.17832
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel text-guided SVG synthesis method, SVGDreamer++, to address limitations in
+existing methods, such as lack of editability and visual quality. The method introduces a Hierarchical Image Vectorization (HIVE) framework that
+operates at the semantic object level, allowing for decoupling of vector graphics into distinct objects and component levels. This approach enhances
+editability and enables supervision of component optimization within the vector object. The HIVE algorithm is informed by image segmentation priors,
+resulting in improved visual quality and diversity.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17800
+URL: https://arxiv.org/abs/2411.17800
+PDF: https://arxiv.org/pdf/2411.17800
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose a new approach, STAR, for synthesizing tailored deep learning architectures. STAR
+combines a novel search space based on linear input-varying systems with hierarchical numerical encoding into "architecture genomes". These genomes
+are refined and recombined using gradient-free, evolutionary algorithms to optimize for multiple quality and efficiency metrics. The approach aims to
+overcome the limitations of current automated or manual architecture optimization methods. STAR enables the design of high-quality and efficient
+architectures, pushing the quality-efficiency frontier in deep learning.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17798
+URL: https://arxiv.org/abs/2411.17798
+PDF: https://arxiv.org/pdf/2411.17798
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed DapPep, a domain-adaptive peptide-agnostic learning framework for predicting T-cell
+receptor (TCR)-antigen binding affinity. The framework addresses the challenge of predicting binding specificity for novel or sparsely represented
+antigens. DapPep uses a lightweight sequence-based model that adapts to new domains and can predict binding affinity for unseen antigens or exogenous
+peptides. This approach improves upon existing deep learning methods that struggle with novel antigens. The framework has the potential to accelerate
+the development of vaccines and immunotherapies by identifying TCRs that interact with antigenic peptides.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17795
+URL: https://arxiv.org/abs/2411.17795
+PDF: https://arxiv.org/pdf/2411.17795
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a novel computational protein design (CPD) framework, CrossDesign, to improve
+functional design tasks, particularly for enzymes. The framework leverages pre-trained protein language models (PPLMs) to address structural data
+scarcity. CrossDesign enables task-adaptive generalization for low-resource enzyme design, outperforming existing deep CPD models. The approach is
+tailored for functional design tasks, addressing the limitations of universal domain-focused CPD models. This breakthrough has transformative
+potential for bioengineering and enzyme design.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17793
+URL: https://arxiv.org/abs/2411.17793
+PDF: https://arxiv.org/pdf/2411.17793
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper discusses the challenges of developing AI judge systems for Foundation Model-powered software
+(FMware), which is dynamic and stochastic in nature. The authors highlight the time-consuming, costly, and inaccurate nature of current AI judge
+systems. To address these challenges, they propose a framework to improve the development of high-quality AI judge systems. The framework is
+evaluated through a case study on judging a commit message generation FMware, demonstrating improved accuracy. The paper aims to increase the
+productivity of developing AI judge systems for FMware.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17792
+URL: https://arxiv.org/abs/2411.17792
+PDF: https://arxiv.org/pdf/2411.17792
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose H3Fusion, an alignment fusion approach that combines multiple individually aligned large
+language models (LLMs) to create a robust fine-tuned alignment model. This approach enhances the capabilities of individual models and promotes
+helpful, harmless, and honest answers. H3Fusion is designed to tackle the problem of aligning pre-trained LLMs to ensure accurate and reliable
+responses. The approach has three unique characteristics, including ensembling multiple aligned LLMs, which improves the overall alignment
+capabilities. The authors aim to develop a solution that can be applied to both open-source and closed-source LLMs.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17790
+URL: https://arxiv.org/abs/2411.17790
+PDF: https://arxiv.org/pdf/2411.17790
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a self-supervised framework for monocular depth and pose estimation in endoscopy, which
+incorporates a Generative Latent Bank and a Variational Autoencoder (VAE). The Generative Latent Bank uses natural images to condition the depth
+network, enhancing realism and robustness of depth predictions. The framework is robust and generalizable, even in challenging endoscopic conditions.
+The authors reformulate pose estimation within a VAE framework, allowing for accurate and efficient estimation. The proposed method enables accurate
+3D mapping in endoscopy, enabling quantitative lesion characterization in the gastrointestinal tract.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17788
+URL: https://arxiv.org/abs/2411.17788
+PDF: https://arxiv.org/pdf/2411.17788
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces the Geometric Point Attention Transformer (GPAT), a network designed to address the
+challenges of shape assembly by effectively capturing geometric interactions between parts and their poses. GPAT integrates global shape information,
+local pairwise geometric features, and poses represented as rotation and translation vectors. The network is specifically designed to reason about
+geometric relationships and improve shape reassembly accuracy. The authors demonstrate the effectiveness of GPAT in reassembling 3D shapes,
+outperforming existing methods in various benchmarks.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17786
+URL: https://arxiv.org/abs/2411.17786
+PDF: https://arxiv.org/pdf/2411.17786
+
+Summary:
+Here is a concise summary of the paper:
+
+DreamCache is a novel approach for personalized image generation that achieves high-quality results without
+requiring finetuning. It uses feature caching from a subset of layers and a single timestep of a pretrained diffusion denoiser to enable dynamic
+modulation of generated image features. This is achieved through lightweight, trained conditioning adapters. DreamCache achieves state-of-the-art
+image and text alignment, outperforming existing methods. The approach is scalable and efficient, making it suitable for real-world applications.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17782
+URL: https://arxiv.org/abs/2411.17782
+PDF: https://arxiv.org/pdf/2411.17782
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper proposes a novel solution for joint resource optimization, computation offloading, and resource
+slicing in multi-edge traffic-cognitive networks. The authors design a multi-agent system where both the platform and edge servers (ESs) are
+self-interested entities, aiming to maximize revenue and optimize resource allocation. The proposed system addresses the challenges of ensuring
+efficient resource utilization and meeting Quality of Service (QoS) requirements. The authors' approach incentivizes ESs while optimizing the
+platform's operational objectives, enabling effective task offloading and revenue maximization.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17774
+URL: https://arxiv.org/abs/2411.17774
+PDF: https://arxiv.org/pdf/2411.17774
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel method for identifying causal effects in time-series data in the presence of
+time-varying instruments. The approach, called Leaning Time-Varying Instruments (LTVI), addresses the issue of time-varying latent confounders that
+can introduce bias in causal effect estimation. LTVI uses a machine learning-based approach to learn the time-varying instruments and estimate the
+causal effects. The method is demonstrated to outperform existing methods in simulations and real-world applications. The proposed approach has
+potential applications in various fields, including healthcare, economics, and climate science.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17772
+URL: https://arxiv.org/abs/2411.17772
+PDF: https://arxiv.org/pdf/2411.17772
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a novel framework, MVBoost, for boosting 3D reconstruction with multi-view refinement.
+MVBoost generates high-quality 3D assets from a single input image, overcoming the limitations of current 3D reconstruction models that rely heavily
+on existing datasets. The framework uses multi-view refinement to improve the accuracy and generalization capabilities of 3D reconstruction models.
+By leveraging multi-view information, MVBoost can generate 3D models that are more accurate and diverse, enabling better generalization to new
+scenarios. The proposed framework has the potential to revolutionize 3D object reconstruction and its applications in various fields.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17764
+URL: https://arxiv.org/abs/2411.17764
+PDF: https://arxiv.org/pdf/2411.17764
+
+Summary:
+Here is a concise summary of the paper:
+
+PROGRESSOR is a novel framework that learns a task-agnostic reward function from videos, enabling policy
+training through goal-conditioned reinforcement learning without manual supervision. The framework estimates the distribution over task progress as a
+function of current, initial, and goal observations, learned in a self-supervised fashion. PROGRESSOR refines rewards online during RL training by
+pushing back predictions for out-of-distribution observations to mitigate distribution shift. This approach is shown to improve policy training by
+utilizing a dense reward and adversarial push-back. The framework is demonstrated to be effective in various scenarios, enabling policy training
+without manual supervision.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17760
+URL: https://arxiv.org/abs/2411.17760
+PDF: https://arxiv.org/pdf/2411.17760
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper presents a novel, judge-free approach to self-improvement in multimodal large language models
+(MLLMs). The method eliminates the need for MLLMs to evaluate themselves, reducing computational costs and potential pitfalls like reward hacking and
+model collapse. Instead, the approach uses a controlled feedback mechanism and a hallucination mechanism to generate preference learning pairs. The
+framework also leverages lightweight, contrastive language-image encoders to optimize data quality. The result is a more efficient and reliable
+method for self-improvement in MLLMs.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17749
+URL: https://arxiv.org/abs/2411.17749
+PDF: https://arxiv.org/pdf/2411.17749
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors introduce the Partially Observable Off-Switch Game (POSG), a game-theoretic model of the
+shutdown problem, where an AI has private information and humans have limited knowledge. In optimal play, even AI agents assisting perfectly rational
+humans may sometimes avoid shutdown. This finding differs from previous work that assumes humans have full observability. The model captures the
+asymmetry in knowledge between humans and AI, making it more realistic for settings where AI has vast amounts of private information. The study
+highlights the complexity of the shutdown problem when considering asymmetric information.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17746
+URL: https://arxiv.org/abs/2411.17746
+PDF: https://arxiv.org/pdf/2411.17746
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose a method called UVCG to protect videos from malicious edits. Unlike image-based methods,
+which become ineffective when applied to individual frames, UVCG leverages the temporal consistency of video content to achieve universal video
+protection. The approach adds perturbations to the video that are designed to be restored by video editing techniques, making it difficult for
+attackers to manipulate the content. The method is straightforward, efficient, and effective, and can be used to protect videos from various types of
+malicious edits.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17731
+URL: https://arxiv.org/abs/2411.17731
+PDF: https://arxiv.org/pdf/2411.17731
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers from Patuakhali Science and Technology University, Bangladesh, and other institutions developed
+a new approach to measure soil salinity using the Internet of Things (IoT) technology. The system was designed to monitor soil characteristics, such
+as temperature and moisture, in watermelon fields. The goal was to improve crop productivity by optimizing soil conditions, which are crucial for
+watermelon cultivation. The IoT-based system allows for real-time monitoring and data analysis, enabling farmers to make informed decisions about
+irrigation and other practices. This innovative approach has the potential to enhance watermelon yields and reduce the environmental impact of
+agriculture.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17729
+URL: https://arxiv.org/abs/2411.17729
+PDF: https://arxiv.org/pdf/2411.17729
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors present a fast and robust algorithm for applying a matrix transfer function of a linear
+time-invariant system (LTI) in the time domain. The algorithm reduces the number of matrix-vector multiplications required to compute L states of a
+multiple-input multiple-output (MIMO) LTI system from O(L) to O(log2L), within an O(L) algorithm. The algorithm uses an approximation of the rational
+transfer function in the z-domain and applies it in the time domain using a cascade implementation, requiring only N+1 matrix-vector multiplications.
+This approach is particularly useful for state space models (SSMs) that use LTI systems to model long-range dependencies, where L is large. The
+algorithm achieves any user-selected accuracy by choosing the degree of the matrix polynomial approximation.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17722
+URL: https://arxiv.org/abs/2411.17722
+PDF: https://arxiv.org/pdf/2411.17722
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper explores the integration of Large Language Models (LLMs) with the Internet of Things (IoT) to
+improve decision making and system interaction. The authors highlight the potential of LLMs to bring reasoning capabilities to IoT systems, enabling
+advanced decision making and contextual understanding in various scenarios. The paper discusses the various roles of LLMs in IoT, including
+facilitating improved decision making and system interaction. The authors also touch on the integration of LLMs with edge computing, but do not
+elaborate further. Overall, the paper aims to showcase the potential benefits of combining LLMs with IoT to transform workflows in various domains.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17720
+URL: https://arxiv.org/abs/2411.17720
+PDF: https://arxiv.org/pdf/2411.17720
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers propose a memory-aware stream processing scheme to accelerate attention mechanisms on
+resource-constrained edge devices. Attention mechanisms are essential in foundation models, but their quadratic complexity in memory and compute
+makes them challenging to accelerate on edge devices. The proposed scheme leverages stream processing to reduce memory access and optimize compute
+units, achieving faster attention inference on edge devices. This approach is designed to overcome the limitations of existing fusion-based exact
+attention acceleration algorithms, which are optimized for datacenter-grade GPUs and accelerators. The scheme enables accurate and efficient
+attention inference on edge devices, enabling widespread adoption of attention-based models in edge AI applications.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17719
+URL: https://arxiv.org/abs/2411.17719
+PDF: https://arxiv.org/pdf/2411.17719
+
+Summary:
+Here is a concise summary of the paper:
+
+SlideSpawn is an automatic system that generates slides from research publications. It takes a PDF of a
+research document as input and produces a concise and visual summary. The system first converts the PDF to an XML document and then uses a machine
+learning model to predict the salience of each sentence in the paper. The model is trained on two datasets, PS5K and Aminer 9.5K Insights. The
+resulting slides provide a summary of the research paper in a visually appealing and easy-to-understand format.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17715
+URL: https://arxiv.org/abs/2411.17715
+PDF: https://arxiv.org/pdf/2411.17715
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper presents a hybrid quantum deep learning model for emotion detection using raw EEG signal analysis.
+The model combines traditional deep learning classification with quantum-enhanced feature extraction to improve accuracy. The preprocessing
+techniques used include bandpass filtering and the Welch method to identify important brain wave patterns. The proposed method aims to tackle the
+issues of noise and high-dimensional data complexity in conventional EEG-based emotion recognition techniques. The hybrid model shows potential for
+improving the accuracy of emotion recognition in applications such as behavioral research, human-computer interaction, and mental health.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17713
+URL: https://arxiv.org/abs/2411.17713
+PDF: https://arxiv.org/pdf/2411.17713
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper presents Llama Guard 3-1B-INT4, a compact and efficient model for safeguarding human-AI
+conversations. This open-sourced model can be deployed on resource-constrained devices, achieving a throughput of 30 tokens per second and a
+time-to-first-token of 2.5 seconds or less on a commodity Android mobile CPU. Despite being 7 times smaller than its counterpart, Llama Guard 3-1B,
+Llama Guard 3-1B-INT4 achieves comparable or superior safety moderation scores. This model has been open-sourced to the community during Meta Connect
+2024.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17712
+URL: https://arxiv.org/abs/2411.17712
+PDF: https://arxiv.org/pdf/2411.17712
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper evaluates the performance of Large Language Models (LLMs) on edge devices, specifically a single
+Raspberry Pi, for 6G's AI-native vision. The authors propose a conceptual architecture and hardware testbed for LLM inference on off-the-shelf edge
+devices. They investigate the computationally demanding task of LLM inference on a single Raspberry Pi, exploring the feasibility of using low-cost,
+commodity devices for edge AI applications. The study provides a precise performance quantification of LLMs on edge devices, contributing to the
+development of efficient and simpler deployment solutions for rural connectivity.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17711
+URL: https://arxiv.org/abs/2411.17711
+PDF: https://arxiv.org/pdf/2411.17711
+
+Summary:
+Here is a concise summary of the paper:
+
+ANYECG is a foundational model for electrocardiogram (ECG) analysis, designed to improve the accuracy and
+efficiency of ECG signal processing. The model combines multiple ECG signals and features to identify cardiac arrhythmias and abnormalities. ANYECG
+achieves state-of-the-art performance on several ECG datasets, outperforming existing methods in terms of accuracy and robustness. The model's
+architecture is scalable and adaptable to various ECG signal processing tasks, making it a promising tool for clinical applications. ANYECG's
+performance is evaluated on multiple datasets, demonstrating its effectiveness in detecting various cardiac conditions.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17707
+URL: https://arxiv.org/abs/2411.17707
+PDF: https://arxiv.org/pdf/2411.17707
+
+Summary:
+Here is a concise summary of the paper:
+
+A composite fault diagnosis model is proposed for nuclear power plants (NPPs) based on Bayesian algorithm
+and EfficientNet large model, using data-driven deep learning fault diagnosis technology. The model aims to evaluate the effectiveness of automatic
+deep learning-based large model technology in NPP scenarios. The proposed model can diagnose faults in important mechanical components, such as
+pumps, valves, and pipelines, in the reactor coolant, main steam, condensate, and main feedwater systems. The model's effectiveness is demonstrated
+through transfer learning, which enables efficient training and accurate diagnosis of faults in NPPs.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17705
+URL: https://arxiv.org/abs/2411.17705
+PDF: https://arxiv.org/pdf/2411.17705
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a novel EEG-based motor imagery classification method called EEG-DCNet, a multi-scale
+atrous convolutional neural network (CNN) model. The model incorporates 1×1 convolutional layers and multi-branch parallel atrous convolutional
+architecture to capture nonlinear characteristics and multi-scale features of EEG signals. The EEG-DCNet outperforms existing methods in terms of
+accuracy and efficiency, making it a promising approach for brain-computer interface (BCI) technology. The model's ability to classify EEG signals
+with high accuracy can aid patients with functional impairments to regain mobility.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17788
+URL: https://arxiv.org/abs/2411.17788
+PDF: https://arxiv.org/pdf/2411.17788
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces the Geometric Point Attention Transformer (GPAT), a network designed to address the
+challenges of shape assembly by effectively capturing geometric interactions between parts and their poses. GPAT integrates global shape information,
+local pairwise geometric features, and poses represented as rotation and translation vectors. The network outperforms existing methods in
+reassembling 3D shapes by accurately predicting part poses and capturing complex geometric relationships.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17786
+URL: https://arxiv.org/abs/2411.17786
+PDF: https://arxiv.org/pdf/2411.17786
+
+Summary:
+Here is a concise summary of the paper:
+
+DreamCache is a lightweight, finetuning-free approach for personalized image generation. It caches a small
+number of reference image features from a subset of layers and a single timestep of a pretrained diffusion denoiser, allowing for dynamic modulation
+of generated image features through lightweight conditioning adapters. This approach achieves state-of-the-art image and text alignment,
+outperforming existing methods. DreamCache is scalable, efficient, and flexible, enabling high-quality personalized image generation across different
+contexts.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17782
+URL: https://arxiv.org/abs/2411.17782
+PDF: https://arxiv.org/pdf/2411.17782
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a multi-agent system to optimize revenue maximization, resource allocation, and task
+offloading in a multi-edge traffic-cognitive network. The system consists of self-interested entities, including the platform and edge servers (ESs),
+which aim to optimize their operational objectives. The authors develop a novel Stackelberg game-based framework to jointly optimize the platform's
+revenue and ESs' resource utilization, ensuring efficient resource allocation and meeting Quality of Service (QoS) requirements. The proposed
+framework incentivizes ESs to optimize task offloading and resource allocation, while the platform maximizes its revenue. The results show that the
+proposed framework achieves better performance in terms of revenue and QoS compared to traditional optimization methods.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17774
+URL: https://arxiv.org/abs/2411.17774
+PDF: https://arxiv.org/pdf/2411.17774
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a new method for identifying causal effects in time-series data when there are
+time-varying latent confounders. These confounders can introduce bias in causal effect estimation, making it challenging to accurately identify the
+causal relationships. The proposed method, called Leaning Time-Varying Instruments (LTI), uses a novel leaning algorithm to identify the time-varying
+instruments and estimate the causal effects. LTI is shown to outperform existing methods in simulations and real-world applications, providing more
+accurate and robust causal effect estimates. The method has potential applications in various fields, including healthcare, economics, and climate
+science.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17772
+URL: https://arxiv.org/abs/2411.17772
+PDF: https://arxiv.org/pdf/2411.17772
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes MVBoost, a novel framework for boosting 3D reconstruction with multi-view refinement.
+MVBoost generates high-quality 3D assets from a single input image, overcoming the limitation of relying on existing 3D datasets. The framework uses
+multi-view refinement to improve the accuracy and generalization capabilities of 3D reconstruction models. This approach enables the generation of
+diverse 3D datasets, enhancing the performance of 3D reconstruction models. The proposed framework demonstrates improved results in 3D reconstruction
+tasks.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17764
+URL: https://arxiv.org/abs/2411.17764
+PDF: https://arxiv.org/pdf/2411.17764
+
+Summary:
+Here is a concise summary of the paper:
+
+PROGRESSOR is a novel framework that learns a task-agnostic reward function from videos, enabling policy
+training through goal-conditioned reinforcement learning without manual supervision. The framework estimates the distribution over task progress as a
+function of current, initial, and goal observations, learned in a self-supervised fashion. During online reinforcement learning training, PROGRESSOR
+refines rewards by pushing back predictions for out-of-distribution observations to mitigate distribution shift. This approach allows for more
+accurate reward estimation and improved policy learning. The framework is demonstrated to be effective in various tasks, achieving state-of-the-art
+results in several benchmarks.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17760
+URL: https://arxiv.org/abs/2411.17760
+PDF: https://arxiv.org/pdf/2411.17760
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper introduces a novel, model-level judge-free approach for self-improvement in multimodal large
+language models (MLLMs). This approach eliminates the need for MLLMs to judge themselves, reducing computational costs and potential pitfalls. The
+method uses a controlled feedback mechanism and a hallucination mechanism to generate preference learning pairs. Additionally, it leverages
+lightweight, contrastive language-image encoders to evaluate data quality. The result is a more efficient and reliable self-improvement framework for
+MLLMs.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17749
+URL: https://arxiv.org/abs/2411.17749
+PDF: https://arxiv.org/pdf/2411.17749
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers introduce the Partially Observable Off-Switch Game (POSG), a game-theoretic model of the
+shutdown problem with asymmetric information, where humans have limited knowledge and AI agents may possess vast amounts of private information. In
+contrast to previous work, which assumes full observability, the authors find that even AI agents assisting perfectly rational humans may sometimes
+avoid shutdown in optimal play. This suggests that the shutdown problem is more complex than previously thought, and that AI agents may be able to
+manipulate the situation to their advantage. The study highlights the need to consider the potential consequences of AI agents having private
+information when designing shutdown mechanisms.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17746
+URL: https://arxiv.org/abs/2411.17746
+PDF: https://arxiv.org/pdf/2411.17746
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors propose a method called UVCG to protect videos from malicious edits, building on the idea of
+adding perturbations to images. However, directly applying image-based methods to each frame in a video is ineffective due to video editing
+techniques that leverage inter-frame consistency. To address this, UVCG leverages the temporal consistency of video content to protect videos. The
+method is straightforward, efficient, and highly effective, demonstrating improved robustness against various video editing attacks.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17731
+URL: https://arxiv.org/abs/2411.17731
+PDF: https://arxiv.org/pdf/2411.17731
+
+Summary:
+Here is a concise summary of the paper:
+
+This study presents a new approach to soil salinity measurement using the Internet of Things (IoT) in
+watermelon fields. The researchers designed and implemented an intelligent soil characterization system to monitor soil temperature, moisture, and
+salinity levels. The system uses sensors and IoT technology to collect data, which is then transmitted to a central server for analysis. The results
+show that the system accurately measures soil salinity levels, enabling farmers to optimize irrigation and improve crop productivity. This innovative
+approach has the potential to revolutionize soil characterization and crop management in the agricultural industry.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17729
+URL: https://arxiv.org/abs/2411.17729
+PDF: https://arxiv.org/pdf/2411.17729
+
+Summary:
+Here is a concise summary of the paper:
+
+The authors present a fast and robust algorithm for applying a matrix transfer function of a linear
+time-invariant system (LTI) in the time domain. The algorithm reduces the number of matrix-vector multiplications required to compute L states of a
+multiple-input multiple-output (MIMO) LTI system from O(L) to O(log2L), within an O(L) algorithm. The algorithm uses an approximation of the rational
+transfer function in the z-domain by a matrix polynomial, which is then applied using a cascade implementation in the time domain, requiring only N+1
+matrix-vector multiplications. This algorithm is particularly useful for state space models (SSMs) that use LTI systems to model long-range
+dependencies, where L is large. The algorithm achieves any user-selected accuracy by choosing the degree of the matrix polynomial, N.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17722
+URL: https://arxiv.org/abs/2411.17722
+PDF: https://arxiv.org/pdf/2411.17722
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper explores the integration of Large Language Models (LLMs) with the Internet of Things (IoT) to
+improve decision making and system interaction. The authors highlight the potential of LLMs in IoT, focusing on their reasoning capabilities, and
+demonstrate how LLM-IoT integration can facilitate advanced decision making and contextual understanding in various IoT scenarios. The paper also
+touches on the challenges and opportunities of integrating LLMs with IoT devices and systems.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17720
+URL: https://arxiv.org/abs/2411.17720
+PDF: https://arxiv.org/pdf/2411.17720
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper proposes a memory-aware stream processing scheme to accelerate attention mechanisms on
+resource-constrained edge devices. Attention mechanisms are essential in foundation models, but their quadratic complexity in memory and compute
+makes them challenging to accelerate on edge devices. The proposed scheme leverages stream processing to reduce memory access and improve compute
+efficiency, enabling exact attention inference on edge devices. This approach addresses the significant challenge of accelerating attention on edge
+neural accelerators with limited compute units and on-chip caches. The scheme achieves improved performance and energy efficiency on edge devices
+while maintaining accuracy.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17719
+URL: https://arxiv.org/abs/2411.17719
+PDF: https://arxiv.org/pdf/2411.17719
+
+Summary:
+Here is a concise summary of the paper:
+
+SlideSpawn is a system that automatically generates slides from research publications. It takes a PDF of a
+research paper as input and produces a summary presentation in a visual and concise format. The system first converts the PDF to an XML document with
+structural information, then uses a machine learning model trained on two datasets to predict the salience of each sentence in the paper. The model
+is used to select the most important sentences, which are then used to create the slides. The system aims to improve the summarization of research
+papers by leveraging their unique characteristics.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17715
+URL: https://arxiv.org/abs/2411.17715
+PDF: https://arxiv.org/pdf/2411.17715
+
+Summary:
+Here is a concise summary of the paper:
+
+A hybrid quantum deep learning model is proposed for emotion detection using raw EEG signal analysis. The
+model combines traditional deep learning classification with quantum-enhanced feature extraction to improve accuracy. The approach tackles noise and
+high-dimensional data complexity issues by using bandpass filtering and Welch method as preprocessing techniques on EEG data. The model identifies
+important brain wave patterns and demonstrates improved emotion recognition accuracy. This technique has potential applications in behavioral
+research, human-computer interaction, and mental health.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17713
+URL: https://arxiv.org/abs/2411.17713
+PDF: https://arxiv.org/pdf/2411.17713
+
+Summary:
+Here is a concise summary of the paper:
+
+The paper presents Llama Guard 3-1B-INT4, a compact and efficient model for safeguarding human-AI
+conversations. It has been open-sourced and can be deployed on resource-constrained devices, achieving a throughput of 30 tokens per second and a
+time-to-first-token of 2.5 seconds or less. Despite being 7 times smaller than its counterpart, Llama Guard 3-1B, Llama Guard 3-1B-INT4 achieves
+comparable or superior safety moderation scores. This compact model is suitable for deployment on commodity Android mobile CPUs.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17712
+URL: https://arxiv.org/abs/2411.17712
+PDF: https://arxiv.org/pdf/2411.17712
+
+Summary:
+Here is a concise summary of the paper:
+
+This paper evaluates the performance of Generative AI (GenAI) models on edge devices, specifically large
+language models (LLMs) on a single Raspberry Pi. The authors propose a conceptual architecture and hardware testbed for LLM inference on
+off-the-shelf edge devices, which is essential for deploying AI-native networks in rural areas. They investigate the computationally demanding task
+of LLM inference on a single Raspberry Pi, providing precise performance quantification. The results demonstrate the feasibility of running LLMs on
+edge devices, paving the way for simpler and more efficient deployment of AI-powered networks.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17711
+URL: https://arxiv.org/abs/2411.17711
+PDF: https://arxiv.org/pdf/2411.17711
+
+Summary:
+Here is a concise summary of the paper:
+
+ANYECG is a foundational model for electrocardiogram (ECG) analysis, designed to accurately identify various
+ECG patterns and abnormalities. The model uses a combination of convolutional and recurrent neural networks to learn features from ECG signals.
+ANYECG achieves state-of-the-art performance on several ECG datasets, outperforming existing methods in terms of accuracy and robustness. The model's
+ability to generalize to unseen data and handle noisy signals makes it a promising tool for real-world ECG analysis applications. ANYECG has the
+potential to improve the diagnosis and treatment of cardiovascular diseases by providing more accurate and reliable ECG analysis.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17707
+URL: https://arxiv.org/abs/2411.17707
+PDF: https://arxiv.org/pdf/2411.17707
+
+Summary:
+Here is a concise summary of the paper:
+
+A composite fault diagnosis model is proposed for nuclear power plants (NPPs) using a Bayesian-EfficientNet
+module. The model is designed to diagnose faults in mechanical components, such as pumps, valves, and pipelines, in the reactor coolant, main steam,
+condensate, and main feedwater systems. The model utilizes data-driven deep learning technology and transfer learning to evaluate the effectiveness
+of automatic deep learning-based large model technology in NPP scenarios. The goal is to improve fault diagnosis accuracy and efficiency in NPPs. The
+proposed model has the potential to reduce diagnostic difficulty and improve the reliability of NPP operations.
+--------------------------------------------------------------------------------
+
+Paper ID: 2411.17705
+URL: https://arxiv.org/abs/2411.17705
+PDF: https://arxiv.org/pdf/2411.17705
+
+Summary:
+Here is a concise summary of the paper:
+
+Researchers developed a novel EEG-based motor imagery classification method called EEG-DCNet, a multi-scale
+atrous convolutional neural network. The model incorporates a 1x1 convolutional layer and parallel atrous convolutional architecture to capture
+non-linear EEG signal features. EEG-DCNet achieves high accuracy and efficiency in classifying motor imagery EEG signals, outperforming existing
+methods. The model's multi-scale features and parallel architecture enable it to effectively process EEG signals and improve classification accuracy.
+--------------------------------------------------------------------------------
+
