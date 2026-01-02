@@ -66,6 +66,29 @@ Instead of passing API keys via command line, you can set them as environment va
 - `OPENAI_API_KEY`
 - etc.
 
+---
+
+## Additional Projects
+
+### Minnesota Congressional District Redistricting Tool
+
+Located in the `redistricting_mn/` folder, this is a GUI-based application for allocating congressional representative districts using population-based clustering algorithms.
+
+**Features:**
+- Grid-based clustering algorithm for creating districts with equal populations
+- Interactive GUI with map visualization
+- Multiple algorithm options (Horizontal Bands, Vertical Bands, Hybrid Grid)
+- Population data analysis and export capabilities
+
+**Usage:**
+```bash
+cd redistricting_mn/
+pip install -r requirements.txt
+python redistricting_app.py
+```
+
+For more information, see `redistricting_mn/README.md`
+
 ## Author
 
-Noah Vandal, 2024
+Noah Vandal, 2024-2026
